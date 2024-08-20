@@ -1,0 +1,43 @@
+RB2_CUT1_1 77A7090E  ~z~Hey, Niko.
+RB2_CUT1_2 ED67F48E  ~z~Ray.
+RB2_CUT1_3 9338C031  ~z~Take a seat.
+RB2_CUT1_4 8AC3AF47  ~z~Thank you.
+RB2_CUT1_5 5071BA9C  ~z~So, you took care of that thing.
+RB2_CUT1_6 A69866F0  ~z~Yes.
+RB2_CUT1_7 6C61727B  ~z~-I appreciate that... nah.~n~-Hey, no...
+RB2_CUT1_8 600E59D5  ~z~I look after my friends... I got a lot of friends. Important friends.
+RB2_CUT1_9 0DCBB551  ~z~Jimmy Pegorino is a personal friend of mine,
+RB2_CUT1_10 4FF88EF5  ~z~more or less...
+RB2_CUT1_11 7A21E347  ~z~Hey, sweetheart.
+RB2_CUT1_12 6C6347CA  ~z~Hey.
+RB2_CUT1_13 A4A5B84E  ~z~My God, you look like shit. What's wrong?
+RB2_CUT1_14 96E01CC3  ~z~Nothing... I haven't been to bed yet.
+RB2_CUT1_15 A56CB9E0  ~z~I've been smoking crystal.
+RB2_CUT1_16 972B1D5D  ~z~You've been what?
+RB2_CUT1_17 C0CA709B  ~z~What are you a fucking idiot?
+RB2_CUT1_18 B27FD406  ~z~White trash motherfucker. What is wrong with you?
+RB2_CUT1_19 EC5CC7BB  ~z~Gimme a break, okay? I feel like death.
+RB2_CUT1_20 71E7D3DF  ~z~Hey, hey, hey.
+RB2_CUT1_21 A70E3E2B  ~z~What?
+RB2_CUT1_22 95429A94  ~z~It's because I care... you know that.
+RB2_CUT1_23 5FBBAFAB  ~z~Yeah I know that.
+RB2_CUT1_24 4DAA0B88  ~z~Now, speaking of the ice...
+RB2_CUT1_25 81F5741E  ~z~Yeah, they got it. They... they left it where you said.
+RB2_CUT1_26 705ED0F1  ~z~That's why I came over here.
+RB2_CUT1_27 146018F1  ~z~-Can I get a Goddamn coffee here?~n~-Yeah, you look like you could really use some Goddamn caffeine.
+RB2_CUT1_28 02A8F583  ~z~I'm fucking coming down, asshole. I feel like death.
+RB2_CUT1_29 3AEBE608  ~z~Fine, whatever.
+RB2_CUT1_30 ABE038BA  ~z~Ah... Niko, I need you to go collect some garbage for me.
+RB2_CUT1_31 47E670C8  ~z~Garbage?
+RB2_CUT1_32 39A4D445  ~z~Yeah... you wanted a career in waste disposal, now you got one.
+RB2_CUT1_33 725F45B9  ~z~Can I get a Goddamned coffee over here?
+RB2_CUT1_34 64892A0D  ~z~What kind of garbage?
+RB2_CUT1_35 2CAA3A54  ~z~-Garbage with a lot of ice in it.~n~-Today?
+RB2_CUT1_36 1EE49EC9  ~z~Go over to F between Columbus and Denver, there'll be a truck waiting there.
+RB2_CUT1_37 4925F34B  ~z~Three guys, good guys, friends of mine.
+RB2_CUT1_38 3B9BD837  ~z~Main guy's name is Luca. Go.
+RB2_CUT1_39 E3A4A842  ~z~Okay.
+RB2_CUT1_40 18549E76  ~z~Hey, sugar. Come here.
+RB2_CUT1_41 028A72E2  ~z~All this'll be over soon.
+RB2_CUT1_42 F481D6D1  ~z~You gotta stop me smoking this stuff, Ray.
+RB2_CUT1_43 2CF4C7DA  ~z~I'm fuckin' killin' myself.

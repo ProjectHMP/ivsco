@@ -1,0 +1,24 @@
+E3_BUSTED_1 E0E20182  ~z~Jacob, what are you talking about? You know, I think you're smoking too much.
+E3_BUSTED_2 F6B02D1E  ~z~Yo! Me t'ink me know where de heat a come from, ya know, king?
+E3_BUSTED_3 046DC899  ~z~Hey, Niko!
+E3_BUSTED_4 1A54F467  ~z~Hey, Jacob.
+E3_BUSTED_5 29BB9334  ~z~What you doing here? This is no place for you, Michelle.
+E3_BUSTED_6 3F75BEA8  ~z~As it happens, it is.
+E3_BUSTED_7 4D395A2F  ~z~You see, Niko, I have been working for the government.
+E3_BUSTED_8 5F6AFE92  ~z~I'm afraid it's my job to watch you.
+E3_BUSTED_9 6D369A29  ~z~And now I have to ask you for the coke.
+E3_BUSTED_10 F01E45E9  ~z~This is a joke, right?
+E3_BUSTED_11 13328C19  ~z~Please, please, don't make this harder for me than it already is.
+E3_BUSTED_12 1DE7A183  ~z~Look, they are about to take down Elizabeta.
+E3_BUSTED_13 37A85504  ~z~I don't fucking believe this.
+E3_BUSTED_14 42626A78  ~z~Listen... I'm sorry it had to be this way Niko. I'm really sorry.
+E3_BUSTED_15 86F9F3A2  ~z~Hey, you know, you could have gone down too if you weren't so useful.
+E3_BUSTED_16 583D1629  ~z~You fucking bitch.
+E3_BUSTED_17 2A7ABAA5  ~z~Niko...
+E3_BUSTED_18 79C1D932  ~z~Hold on. You mean fe say ya gwa'an let us off just like dat? Nuttin' a gwa'an?
+E3_BUSTED_19 BDC7613C  ~z~Well, my employers need the help of a guy like Niko.
+E3_BUSTED_20 7CE35C4D  ~z~The office is in Algonquin.
+E3_BUSTED_21 C9C0F607  ~z~I'll call you.
+E3_BUSTED_22 986E1362  ~z~You know, as and when we need you.
+E3_BUSTED_23 AFB8C1F3  ~z~The coke please.
+E3_BUSTED_24 C5EEEE5F  ~z~Tsk! Cho, king, me have fe tell Elizabeth, say she nah get dat cocaine, ya know?

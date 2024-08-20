@@ -1,0 +1,45 @@
+FM3_CUT1_1 54CCC50A  ~z~Sure, Ma. Sure...
+FM3_CUT1_2 02C5A0FD  ~z~I've always been a good boy, you know me, Ma.
+FM3_CUT1_3 F8778C61  ~z~Yes. I'll make Commissioner.
+FM3_CUT1_4 27486A02  ~z~No. I don't care about Packie... listen, Ma, I've got to go.
+FM3_CUT1_5 CE06B780  ~z~Love you too.
+FM3_CUT1_6 231161D0  ~z~-Good to see you.~n~-I'm sure.
+FM3_CUT1_7 F84B0C44  ~z~You know it's funny, but I see a lot of me in you.
+FM3_CUT1_8 075CAA67  ~z~You know why?
+FM3_CUT1_9 5DA256F1  ~z~No.
+FM3_CUT1_10 735698F6  ~z~You know there's no good, and no evil... just shades of fucking gray.
+FM3_CUT1_11 6C4B0B0B  ~z~Whatever...
+FM3_CUT1_12 A21C76AD  ~z~You make things one per cent better. That's enough.
+FM3_CUT1_13 8EFED072  ~z~That's our duty.
+FM3_CUT1_14 C6973FA6  ~z~If you say so.
+FM3_CUT1_15 D91964AA  ~z~Oh I do say so. I want to make things a bit better.
+FM3_CUT1_16 C6DFC037  ~z~By any means necessary.
+FM3_CUT1_17 FDB52DE1  ~z~And you? What do you want?
+FM3_CUT1_18 EB72895C  ~z~I want to get paid.
+FM3_CUT1_19 FE522F17  ~z~Sure. Sure you do.
+FM3_CUT1_20 B0D81738  ~z~So listen, I got something I need you to do.
+FM3_CUT1_21 BB272BD6  ~z~This is the last time.
+FM3_CUT1_22 0C554E31  ~z~Of course.
+FM3_CUT1_23 16AB62DD  ~z~Some drug dealer is holed up in a tower block in East Holland.
+FM3_CUT1_24 E5E3814E  ~z~This scumbag's been pushing drugs, pimping women, you name it, he's done it.
+FM3_CUT1_25 5A416B1C  ~z~I need him dealt with.
+FM3_CUT1_26 FD6AB15C  ~z~Isn't that police work?
+FM3_CUT1_27 13B8DDF8  ~z~Sure... and the moon is made of cheese and the streets is paved with gold.
+FM3_CUT1_28 20F2786B  ~z~Wake up.
+FM3_CUT1_29 A73284ED  ~z~Excuse me?
+FM3_CUT1_30 E1467734  ~z~The guy's guilty as sin. He is sin.
+FM3_CUT1_31 BBFE2CA4  ~z~But it'll take me a year to get the evidence. More maybe.
+FM3_CUT1_32 05B4C010  ~z~And maybe good men will get taken down by that evidence.
+FM3_CUT1_33 1862656B  ~z~Maybe people make mistakes.
+FM3_CUT1_34 F3131ACD  ~z~But this guy, is scum.
+FM3_CUT1_35 213C771B  ~z~How much?
+FM3_CUT1_36 FC2B2CF9  ~z~Oh how much?
+FM3_CUT1_37 468EC1C3  ~z~Good money.
+FM3_CUT1_38 585C655E  ~z~Two G's.
+FM3_CUT1_39 331A1ADA  ~z~Two?
+FM3_CUT1_40 5432613A  ~z~You mean five.
+FM3_CUT1_41 72999E0C  ~z~You know,
+FM3_CUT1_42 D4CE6264  ~z~If someone was to tell me you was some fresh off the boat killer with more balls than brains,
+FM3_CUT1_43 C5F8C4B9  ~z~I'd say he was about right.
+FM3_CUT1_44 B93BAB3F  ~z~Okay you got a deal. Head on up to Vauxite and call me.
+FM3_CUT1_45 1BAB701D  ~z~Five G's...

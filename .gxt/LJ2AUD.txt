@@ -1,0 +1,56 @@
+LJ2_CUT1_1 DF385F20  ~z~-Hey boy, don't move, don't move.~n~-Hey! Ah!
+LJ2_CUT1_2 E8F7729E  ~z~-Me say don't move boy. Who are you?~n~-What the fuck, are you kidding me?
+LJ2_CUT1_3 B2E48679  ~z~Where ya come from? Who are you?
+LJ2_CUT1_4 CD24BAF9  ~z~Hey, man, I'm here to see Jacob. It's Niko.
+LJ2_CUT1_5 964ACD3E  ~z~Niko?
+LJ2_CUT1_6 A083E1B0  ~z~Badman, what gwa'an down there so?
+LJ2_CUT1_7 897B33A3  ~z~Some boy down here, sir, beat up the door.
+LJ2_CUT1_8 A3BD6827  ~z~Some boy dere, sir, call himself Niko, say he wan' see ya, rude boy.
+LJ2_CUT1_9 6D0F7ACC  ~z~Niko? Ah me boy that, Badman. Yo, free up the boy, man. Yo.
+LJ2_CUT1_10 88E2ABEE  ~z~-Your boy dat?~n~-Yeah.
+LJ2_CUT1_11 7B1C9062  ~z~-Cho! Come, my youth.~n~-Me boy dat, yo.
+LJ2_CUT1_12 E40AE245  ~z~-Come upstairs to talk wit' Mr. Jacob and ting, man.~n~-Ah him de one work wit' Roman,
+LJ2_CUT1_13 D66B4706  ~z~de one dat control the taxi...
+LJ2_CUT1_14 2156DCDC  ~z~Ya know, when ya have people dat knock upon people door an' ting, ya have fe careful an' ting.
+LJ2_CUT1_15 B326007C  ~z~-No, it's ok.~n~-Yah man. See what me tell?
+LJ2_CUT1_16 FDFC1627  ~z~-Don't worry about it.~n~-Ya have to watch out dere, ya know.
+LJ2_CUT1_17 2FC379B5  ~z~See, ya boy over dere, sir. Niko, go deal wit' dem, see him dere.
+LJ2_CUT1_18 FF029830  ~z~Wha' happen, Niko? Ya alright?
+LJ2_CUT1_19 30CE7BC7  ~z~Hey, no problem. As good an introduction as any other.
+LJ2_CUT1_20 859EA646  ~z~Yeah, me hear that, ya know?
+LJ2_CUT1_21 7519053B  ~z~Anyway... some boy around ya boy Badman, ya know.
+LJ2_CUT1_22 F179FE03  ~z~Him want ask ya a favor. Gwa'an, nuh?
+LJ2_CUT1_23 D3EEC2ED  ~z~Hey, my youth. Some boy dem, dey pon de corner an' ting, an...
+LJ2_CUT1_24 CE343778  ~z~de boy dem sell some tings and ting, an...
+LJ2_CUT1_25 C0621BD4  ~z~I gwa'an, an' I say... oh, dem nah wan' gimme my money an ting. An'...
+LJ2_CUT1_26 F8D50CB9  ~z~every corner my corner an...
+LJ2_CUT1_27 1B06511B  ~z~I want my money an' ting, ya know?
+LJ2_CUT1_28 99CD4EE3  ~z~Ah no see dat! Go, go, ya know, me wan' deal with de case proper. Ya nah see it?
+LJ2_CUT1_29 A3E3630F  ~z~Alright, let me explain.
+LJ2_CUT1_30 72700135  ~z~Is a business ting a gwa'an down dere.
+LJ2_CUT1_31 A2F06235  ~z~Right.
+LJ2_CUT1_32 5D1A568A  ~z~Dey ah sellin' weed where dey not suppose to sell weed,
+LJ2_CUT1_33 876CAB2E  ~z~an' dey nah cutting him in.
+LJ2_CUT1_34 953CC6CA  ~z~Okay.
+LJ2_CUT1_35 BF6B1B2E  ~z~So wan' ya go down dere and deal wit dem. Seen?
+LJ2_CUT1_36 71F18034  ~z~Right. It's not gonna be cheap. Where do I find them?
+LJ2_CUT1_37 A3F96443  ~z~Cheap? Cheap, my youth? Ya worry bout cheap?
+LJ2_CUT1_38 06762943  ~z~We nah worry bout cheap, ya know!
+LJ2_CUT1_39 F8BC8DD0  ~z~De boy dem dere pon de corner! Me say de boi dem a got tings, and uh,
+LJ2_CUT1_40 9B2CD39A  ~z~on my corner dey a done ting and...
+LJ2_CUT1_41 B0FAFF36  ~z~Is a heavy corner on my corner, tell ya me now right after de boy!
+LJ2_CUT1_42 E5CBE8DF  ~z~Dem a gwa'an an say "Oh! Dem nah wan' gimme my money."
+LJ2_CUT1_43 CC3AB5BD  ~z~Oh! Say fe gwa'an wit' dat!
+LJ2_CUT1_44 C1A4A101  ~z~Alright, hear me now. What Badman is saying is...
+LJ2_CUT1_45 B79A8CED  ~z~de boy dem a some novice, seen?
+LJ2_CUT1_46 7D299804  ~z~Ya find dem when ya go pon de corner of Alpha and South Bohan. Seen?
+LJ2_CUT1_47 94FAC7A6  ~z~When ya go down dere so, yuh see an... tsk! An' just deal wit' dem, seen?
+LJ2_CUT1_48 0A6C328F  ~z~Ah go find and turn in work, alright?
+LJ2_CUT1_49 002E1E13  ~z~Alright.
+LJ2_CUT1_50 2E79FB7A  ~z~Alright. Ya want some of dat spliff here?
+LJ2_CUT1_51 34BC07FE  ~z~No thanks.
+LJ2_CUT1_52 098D31A1  ~z~Ya sure?
+LJ2_CUT1_53 1ED65C33  ~z~I'm sure.
+LJ2_CUT1_54 7B571533  ~z~Alright. Respect.
+LJ2_CUT1_55 89A3B1CC  ~z~My youth. Pass me some of dat ting ya have over dereso.
+LJ2_CUT1_56 41F8A277  ~z~Alright, here hold that, king.

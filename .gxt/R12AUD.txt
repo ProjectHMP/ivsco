@@ -1,0 +1,31 @@
+R12_CUT1_1 4898564E  ~z~-Man, this is out of control.~n~-I know.
+R12_CUT1_2 5B627BE2  ~z~-What are we going to do?~n~-I don't know.
+R12_CUT1_3 2CFB9F15  ~z~We are going to die. I don't want to die, man. Not like this.
+R12_CUT1_4 2D8EA03B  ~z~How would you like to die?
+R12_CUT1_5 83624BE1  ~z~Having a threesome on my hundredth birthday...
+R12_CUT1_6 91FFE91C  ~z~I don't fucking know! I'm scared you cold bastard. What are we going to do?
+R12_CUT1_7 63BF0C9B  ~z~I'm not cold.
+R12_CUT1_8 8C59DDC8  ~z~You're cold... all you care about is revenge and getting your own way.
+R12_CUT1_9 8DB5E080  ~z~And all you care about is money, and gambling it away on the internet.
+R12_CUT1_10 A03784A1  ~z~Oh! Isn't America great?
+R12_CUT1_11 88ACD570  ~z~I get to sit in front of a computer and play Mr. Rich Man and get into debt with crooks.
+R12_CUT1_12 36EEB1F5  ~z~Okay, I messed up... I know I did. I thought things would be different.
+R12_CUT1_13 6C3C1C8F  ~z~I don't understand this place so good.
+R12_CUT1_14 9B91FB3A  ~z~Oh, man. What are we going to do?
+R12_CUT1_15 41D747C6  ~z~Stop sitting in front of the computer gambling our money?
+R12_CUT1_16 EFCD23A3  ~z~Stop getting into illegal card games?
+R12_CUT1_17 22770906  ~z~Stop spending all our money?
+R12_CUT1_18 07BDD384  ~z~Yes...
+R12_CUT1_19 B5132E30  ~z~Thank you.
+R12_CUT1_20 BEA5C949  ~z~And stop thinking about the Russians.
+R12_CUT1_21 D0F36DE4  ~z~Man, we just need to disappear as far as they are concerned. Disappear!
+R12_CUT1_22 C7D85BB6  ~z~Okay, okay. But I want Florian and Darko. I need to know what happened. Give me that.
+R12_CUT1_23 F55EB6C2  ~z~Fine. But leave the Russians alone.
+R12_CUT1_24 AC54A4AF  ~z~I was not the one gambling in their private club.
+R12_CUT1_25 D9E3FFCD  ~z~I didn't know... give a guy a break.
+R12_CUT1_26 FE7DC900  ~z~Okay! Okay.
+R12_CUT1_27 2C462494  ~z~Okay.
+R12_CUT1_28 E3001205  ~z~I'm going to clean up. I have a nasty feeling I had a bit of an accident back there.
+R12_CUT1_29 11476E93  ~z~And, Niko...
+R12_CUT1_30 A0290B38  ~z~What?
+R12_CUT1_31 B25EAFA3  ~z~Thanks.

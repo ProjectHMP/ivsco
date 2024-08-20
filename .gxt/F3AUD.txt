@@ -1,0 +1,61 @@
+F3_CUT1_A_1 9C986F33  ~z~Hi, Dimitri.
+F3_CUT1_A_2 9197D932  ~z~Hey, Dimitri, I took care of that thing for you.
+F3_CUT1_A_3 832A3C57  ~z~Very good. I'm proud of you. Good.
+F3_CUT1_A_4 D638E277  ~z~Dimitri, thank you for take care of that thing for me.
+F3_CUT1_A_5 C86A46DA  ~z~No problem.
+F3_CUT1_A_6 B8F1A7E9  ~z~Dimitri, Dimitri, hey, hey, uh... meet my girl, Natasha.
+F3_CUT1_A_7 AA1F8A45  ~z~-So nice to meet you.~n~-Oh, my pleasure.
+F3_CUT1_B_1 2EEBF8A4  ~z~Little delicious, my little knish...
+F3_CUT1_B_2 593CCD2D  ~z~Mikhail.
+F3_CUT1_B_3 06462759  ~z~Hey! My brother, and Niko. Good.
+F3_CUT1_B_4 BB8311D4  ~z~-Have a drink.~n~-Oh, baby...
+F3_CUT1_B_5 D9C44E56  ~z~Move up ladies. Move up.
+F3_CUT1_B_6 1FEB5AA3  ~z~Um.... Mikhail, we've got something we need to talk about.
+F3_CUT1_B_7 CD9CB607  ~z~Okay, you can have Vera, I take Katerina,
+F3_CUT1_B_8 A8A66C37  ~z~-come on, no big deal.~n~-Not that, in private?
+F3_CUT1_B_9 8C5D33A5  ~z~Girls, can you give us a minute, huh?
+F3_CUT1_B_10 7267FCED  ~z~-Please?~n~-Okay.
+F3_CUT1_B_11 079F275D  ~z~Get out of here.
+F3_CUT1_B_12 19054A29  ~z~Keep it warm. I won't be too long.
+F3_CUT1_B_13 3F15969D  ~z~So.
+F3_CUT1_B_14 A8D56A1B  ~z~What is it?
+F3_CUT1_B_15 9891C994  ~z~We've got police trouble.
+F3_CUT1_B_16 8A582D21  ~z~The feds, or someone are all over us.
+F3_CUT1_B_17 047DA16E  ~z~Sergei told me that a friend of his in the courts told him
+F3_CUT1_B_18 F6B805E3  ~z~they've been authorized to tap our phones and they know about the pot we stole.
+F3_CUT1_B_19 6308DE83  ~z~Shit.
+F3_CUT1_B_20 53C6C567  ~z~Who is the rat?
+F3_CUT1_B_21 856528A3  ~z~It's no one. It's just the way we have been behaving.
+F3_CUT1_B_22 77738CC0  ~z~Making too much noise. This was inevitable.
+F3_CUT1_B_23 1D125803  ~z~We're going to have to calm things right down for a while.
+F3_CUT1_B_24 4F533C84  ~z~It's that fucking guy, yeah, I know it is.
+F3_CUT1_B_25 40A59F29  ~z~I saw it in his eyes... you know?
+F3_CUT1_B_26 530FC3FD  ~z~That guy.
+F3_CUT1_B_27 D46A46B4  ~z~That guy, who bought the coke...
+F3_CUT1_B_28 0679AAD2  ~z~-but he didn't buy the pot.~n~-That's Lenny.
+F3_CUT1_B_29 F7F00DBF  ~z~He's my cousin's boyfriend. It's not him. Yes, he's a moron, yes, but he's okay.
+F3_CUT1_B_30 A187622F  ~z~I don't trust him.
+F3_CUT1_B_31 BF879E37  ~z~What? I just told you...
+F3_CUT1_B_32 CDC93ABA  ~z~He knows too much.
+F3_CUT1_B_33 77790E17  ~z~You, kill him.
+F3_CUT1_B_34 85BAAA9A  ~z~Are you sure?
+F3_CUT1_B_35 9421C768  ~z~Sure? No, I am not.
+F3_CUT1_B_36 A26063E5  ~z~Right now, I am wondering if it's him or you.
+F3_CUT1_B_37 209BE05E  ~z~It could be you.
+F3_CUT1_B_38 3EE11CE8  ~z~Think for a second. This has been going on for months.
+F3_CUT1_B_39 4DD2BACB  ~z~Think? Look where your thinking has got us.
+F3_CUT1_B_40 EEE4F965  ~z~You were in charge of security. Good job. Well done, Dimitri.
+F3_CUT1_B_41 29A9EEEE  ~z~You pathetic idiot.
+F3_CUT1_B_42 1362C260  ~z~You,
+F3_CUT1_B_43 D9544E48  ~z~prove you're loyal. Go, and kill the guy.
+F3_CUT1_B_44 8354A242  ~z~Don't question my loyalty.
+F3_CUT1_B_45 BA6E907D  ~z~Then don't question my orders.
+F3_CUT1_B_46 EC9574CA  ~z~He lives on Guantanamo Avenue in Bohan.
+F3_CUT1_B_47 4EE8396A  ~z~Head up there, and call me, me personally, when you get there.
+F3_CUT1_B_48 410B9DB1  ~z~-Mikhail, please, don't do this.~n~-Shut up.
+F3_CUT1_B_49 7369026B  ~z~-I...~n~-Shut the fuck up.
+F3_CUT1_B_50 A20C69E9  ~z~-I... I'm begging you... please,~n~-I said shut the fuck up.
+F3_CUT1_B_51 93CACD66  ~z~-don't do this. ~n~-Go.
+F3_CUT1_B_52 457730C0  ~z~-Why don't you listen?~n~-You want to play games?
+F3_CUT1_B_53 B2F00C0C  ~z~-This is not a game.~n~-Hey, give me break.
+F3_CUT1_B_54 24A76F79  ~z~-You have to play by the rules.~n~-Stop. I said stop.

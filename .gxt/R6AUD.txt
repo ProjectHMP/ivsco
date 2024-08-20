@@ -1,0 +1,23 @@
+R6_CUT1_1 CB36B4E4  ~z~Head into town. I don't give a fuck if the bridge is busy, you're a cab driver! Hey.
+R6_CUT1_2 D65ECB34  ~z~Hello, Roman Bellic Enterprises...
+R6_CUT1_3 AF89FD8B  ~z~No. Mr. Bellic has stepped away from his office, can I take a message?
+R6_CUT1_4 B8FB106D  ~z~Okay... great... no, I'm not gay.
+R6_CUT1_5 F8E11034  ~z~Yes, I'll... I'll tell him.
+R6_CUT1_6 0AFAB467  ~z~Car seven, head to South Slopes. Come on, where are you, Mohammed?
+R6_CUT1_7 C40CA68C  ~z~Hello, Roman Bellic's offi...
+R6_CUT1_8 EF4CFD0C  ~z~Shit. Fucking battery. This is chaos!
+R6_CUT1_9 32B483DA  ~z~Capitalism is a dirty business.
+R6_CUT1_10 6ED97F68  ~z~Yeah... like war?
+R6_CUT1_11 BE0F9DAF  ~z~Not exactly.
+R6_CUT1_12 AE60FE4A  ~z~No. Maybe not. When you going to tell me properly about what happened?
+R6_CUT1_13 D9A054D0  ~z~I'm not going to judge you.
+R6_CUT1_14 C7EAB165  ~z~Ahh... when you got time.
+R6_CUT1_15 F7250FD9  ~z~There, I have time.
+R6_CUT1_16 E366685C  ~z~Another time. Can I help?
+R6_CUT1_17 1317C7BE  ~z~Okay. Yes... go pick up my friend, Little Jacob... he's a good man.
+R6_CUT1_18 00C6231B  ~z~Likes to smoke a bit. Look after him.
+R6_CUT1_19 27FFF18A  ~z~He's on Oneida Avenue in South Slopes.
+R6_CUT1_20 68686F3A  ~z~Niko, man, we should talk some time - I'm a good listener.
+R6_CUT1_21 3F719D4D  ~z~Whatever, man.
+R6_CUT1_22 492AB0BF  ~z~Mohammed, where the fuck are...
+R6_CUT1_23 21AEE1CC  ~z~Oh! Miss Weinstock, no no, not you... what can I do for you today?

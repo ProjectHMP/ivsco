@@ -1,0 +1,39 @@
+R7_CUT3_1 A5209225  ~z~Eeeh, you're a big boy Vladdy.
+R7_CUT3_2 B9DDBB9F  ~z~Niko!
+R7_CUT3_3 CBCB5F7A  ~z~Well, I guess this is over.
+R7_CUT3_4 DA60FCA5  ~z~What have you done?
+R7_CUT3_5 6C492077  ~z~What does it look like?
+R7_CUT3_6 4878D88F  ~z~We're dead!
+R7_CUT3_7 DE47042D  ~z~No, he's dead... we're fine.
+R7_CUT3_8 F001A7A2  ~z~He has powerful friends... serious people...
+R7_CUT3_9 FDDC4357  ~z~I told you to be calm you hot headed chump!
+R7_CUT3_10 6D08C5BC  ~z~I am calm. He tried to kill us. He screwed your girlfriend.
+R7_CUT3_11 16B21910  ~z~-What do you expect? I give him a massage?~n~-Shit! Shit! Shit!
+R7_CUT3_12 428C70C4  ~z~When I was in the army...
+R7_CUT3_13 345FD46B  ~z~we were going on a mission...
+R7_CUT3_14 E0222BED  ~z~to ambush a squad who had killed a lot of innocent people.
+R7_CUT3_15 D1AE8F06  ~z~They were our enemies...
+R7_CUT3_16 C2C77140  ~z~but we never did it.
+R7_CUT3_17 B43ED42F  ~z~There were fifteen of us. All boys from the village.
+R7_CUT3_18 5F392A29  ~z~But one of us betrayed the group.
+R7_CUT3_19 51A18EFA  ~z~It was a setup... for money!
+R7_CUT3_20 3D5EC419  ~z~Twelve people died, three escaped.
+R7_CUT3_21 3921BB9F  ~z~I know the traitor was not me...
+R7_CUT3_22 29F21D40  ~z~So for ten years I've been searching for the other two.
+R7_CUT3_23 93BCF0D4  ~z~One of them lives here.
+R7_CUT3_24 7082AA60  ~z~Why are you telling me this now?
+R7_CUT3_25 604909ED  ~z~Do you always get sentimental after you kill people?
+R7_CUT3_26 CD36E3CB  ~z~You kept asking...
+R7_CUT3_27 BEF44746  ~z~Wonderful.
+R7_CUT3_28 B7F8394E  ~z~You're here on some revenge mission for something that happened ten years ago.
+R7_CUT3_29 AA3A9DD3  ~z~And you don't care whose life you ruin on the way?
+R7_CUT3_30 242E1098  ~z~No.
+R7_CUT3_31 92A0ED7C  ~z~Well what?
+R7_CUT3_32 7DEAC410  ~z~I don't know...
+R7_CUT3_33 6C042043  ~z~I just want to know why they did it.
+R7_CUT3_34 5D5982EE  ~z~Right now I don't think you're going to find out.
+R7_CUT3_35 CB785F2E  ~z~Let's hide the body, at least for a while.
+R7_CUT3_36 B6E6360A  ~z~Put him in the river...
+R7_CUT3_37 A5059249  ~z~Mikhail Faustin is going to kill us.
+R7_CUT3_38 12796D2F  ~z~Shit. We should get out of here.
+R7_CUT3_39 0031C8A0  ~z~You go. I'll catch up with you later.

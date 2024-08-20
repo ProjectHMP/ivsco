@@ -1,0 +1,6 @@
+SHOW2_PT1_1 C40D9009  ~z~~x~And now's the time for American cowboy!
+SHOW2_PT1_2 D7CC3786  ~z~~x~Welcome, Dusty Cowpoke!
+SHOW2_PT1_3 E9A25B32  ~z~~x~What is problem? He's just like real Texas cowboy!
+SHOW2_PT1_4 FB21FE31  ~z~~x~Maybe you'll like next show better.
+SHOW2_PT1_5 E9195A1C  ~z~~x~Here it is, great juggler named Catch!
+SHOW2_PT2_1 3EFFB88E  ~z~~x~Thank you very much. We have more shows soon!

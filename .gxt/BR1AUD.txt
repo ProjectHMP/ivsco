@@ -1,0 +1,50 @@
+BR1_CUT1_1 951005C1  ~z~Hey.
+BR1_CUT1_2 A256A04E  ~z~Hello?
+BR1_CUT1_3 F8814CAA  ~z~I'm busy.
+BR1_CUT1_4 06A0E8E9  ~z~I said hello!
+BR1_CUT1_5 6391A2C9  ~z~Ow! Motherfucker!
+BR1_CUT1_6 B2E4C16E  ~z~Is your boss around?
+BR1_CUT1_7 C91EEDE2  ~z~What did you do that for?
+BR1_CUT1_8 968608B1  ~z~Is your boss around?
+BR1_CUT1_9 1A7A109B  ~z~Yeah, he's around. Brucie! Some fucking Polack asshole for you.
+BR1_CUT1_10 E565EB3B  ~z~Pleasure to meet you, too.
+BR1_CUT1_11 FB10168F  ~z~He's not a Polack. He's a gentleman.
+BR1_CUT1_12 BFE82040  ~z~He's still a fucking asshole...
+BR1_CUT1_13 D159C323  ~z~Sorry, Nicky, man. How's things?
+BR1_CUT1_14 9C605929  ~z~Okay.
+BR1_CUT1_15 B1E48439  ~z~Sweet.
+BR1_CUT1_16 7A949592  ~z~I got you, man! I'm big, but I'm also fast. Wake up, boy!
+BR1_CUT1_17 88643131  ~z~Ooh, I'm sorry. Can you show me that again?
+BR1_CUT1_18 570ECE87  ~z~Hey yah! Oh! Ah! Oh! Enough, man, enough! Oh! Whoo!
+BR1_CUT1_19 64E76A38  ~z~-Fuck me, man. Woo!~n~-You'll be alright, eh?
+BR1_CUT1_20 0BD2B908  ~z~That's some red army shit, serious.
+BR1_CUT1_21 FEA91EB5  ~z~You gotta show me that one. I'm all about power.
+BR1_CUT1_22 E7C1F0E7  ~z~C'mon, touch my pecs, man.
+BR1_CUT1_23 D98B547A  ~z~No, thank you.
+BR1_CUT1_24 75E08D0A  ~z~Rock hard. I bench four-fifty I'm an animal.
+BR1_CUT1_25 845729F7  ~z~Yeah, yeah, yeah...
+BR1_CUT1_26 5171C42D  ~z~Shit no shit. What you doing here, man?
+BR1_CUT1_27 5FAB60A0  ~z~Well, Roman said maybe you needed some help,
+BR1_CUT1_28 3ED51EF4  ~z~and we need some money real bad.
+BR1_CUT1_29 4D17BB79  ~z~Shit, my bad. Yeah, of course. Love that guy. Love him.
+BR1_CUT1_30 135F4919  ~z~I mean I am no chubby chaser, but if I was, and a queer, that guy would be in trouble,
+BR1_CUT1_31 260BEE72  ~z~-you know what I mean?~n~-I'll let him know.
+BR1_CUT1_32 F0B583C6  ~z~Hey, I'm shitting with you. Brucie likes pussy.
+BR1_CUT1_33 02672729  ~z~Remember that, alright?
+BR1_CUT1_34 ED27FCAB  ~z~Okay...
+BR1_CUT1_35 B6D29001  ~z~Alright now, Nicky, listen up. I know you guys need money, bad.
+BR1_CUT1_36 C988356C  ~z~Yeah...
+BR1_CUT1_37 9471CB28  ~z~This ain't a nice job. Not exactly mom and pop shit.
+BR1_CUT1_38 A6C06FC5  ~z~No problem, as long as the pay is good.
+BR1_CUT1_39 70090257  ~z~Sometimes people fuck other people over, okay?
+BR1_CUT1_40 75768E92  ~z~And the people that fuck other people need to get fucked with.
+BR1_CUT1_41 83352A0F  ~z~Especially people that go into hiding, before they can get on the stand and put a lot of guys inside for a lot of time.
+BR1_CUT1_42 59EAD77B  ~z~What?
+BR1_CUT1_43 689074C6  ~z~I need you to whack some people, only they're in hiding.
+BR1_CUT1_44 161D4FE1  ~z~How do I find them?
+BR1_CUT1_45 236AEA7C  ~z~Man, you're cold. You didn't even blink!
+BR1_CUT1_46 F99896D8  ~z~Love that, I fucking love that!
+BR1_CUT1_47 06FF31A5  ~z~You gotta steal a police car, get on the computer, gimme a call. They're easy to hack.
+BR1_CUT1_48 1CE45D87  ~z~Not really.
+BR1_CUT1_49 2AADF91A  ~z~Alright, Brucie, I'll give you a call.
+BR1_CUT1_50 A86CFE0E  ~z~Ice cold man! Ice cold!

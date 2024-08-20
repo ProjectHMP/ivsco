@@ -1,0 +1,35 @@
+E1_CUT1_1 A1BD59B4  ~z~So I said if that's the way you want it amigo, then that's what you're gonna get. And that shut him up.
+E1_CUT1_2 AF7A752E  ~z~Fucking punk.
+E1_CUT1_3 3E6E131B  ~z~-Oh. Hey. Como esta?~n~-Hey, how's it going?
+E1_CUT1_4 4C342EA7  ~z~Oh wait, espera.
+E1_CUT1_5 EB04EC46  ~z~Jorge, He's with me.
+E1_CUT1_6 78CF07DC  ~z~Liz, this is Niko, Roman's cousin,
+E1_CUT1_7 87A1A581  ~z~and Niko, this is Elizabeta.
+E1_CUT1_8 95644106  ~z~She's an old friend. She'll give you some work.
+E1_CUT1_9 342C7E98  ~z~Okay... thank you, Mal.
+E1_CUT1_10 722CE4B4  ~z~So, tough guy, you know about this business?
+E1_CUT1_11 80C381E1  ~z~I know about protection. What do you need?
+E1_CUT1_12 97B2AFBF  ~z~I need someone no one knows to oversee a deal I'm not sure about.
+E1_CUT1_13 A3E0481A  ~z~Easy.
+E1_CUT1_14 2278454C  ~z~I think it'll be a bit more taxing than hanging with Manny on "the streets".
+E1_CUT1_15 2FEAE031  ~z~Not so.
+E1_CUT1_16 45060A67  ~z~For one, I won't have to listen to him talk.
+E1_CUT1_17 54CFA9FA  ~z~True!
+E1_CUT1_18 D95CB316  ~z~Hey Niko, this is Patrick - Packie McReary.
+E1_CUT1_19 EF22DEA2  ~z~-Alright.~n~-Hey.
+E1_CUT1_20 6008C1CC  ~z~So... Packie is shopping.
+E1_CUT1_21 716E6497  ~z~But I've never trusted the people he's buying off,
+E1_CUT1_22 9C95BAE5  ~z~and I can't, in good consciousness, help him...
+E1_CUT1_23 ADEC5D92  ~z~unless he's got some extra insurance -
+E1_CUT1_24 D65FAE04  ~z~you.
+E1_CUT1_25 E43D49BF  ~z~And that's why you're the best, darling.
+E1_CUT1_26 0A0C955D  ~z~Ah. Maybe...
+E1_CUT1_27 17D730F2  ~z~Alright, tough guy, let's do this.
+E1_CUT1_28 9D923C6A  ~z~Sure.
+E1_CUT1_29 A322478A  ~z~See you later, Niko.
+E1_CUT1_30 EC185AB9  ~z~Goodbye.
+E1_CUT1_31 F1576537  ~z~And will you call Michelle again? She really likes you.
+E1_CUT1_32 07571136  ~z~Yeah, yeah.
+E1_CUT1_33 1D193CBA  ~z~Buena suerte.
+E1_CUT1_34 BD3FFD09  ~z~So, he seems okay.
+E1_CUT1_35 8B81198C  ~z~Oh, he's totally cool. Yeah, he's like family.

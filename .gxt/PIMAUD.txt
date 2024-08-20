@@ -1,0 +1,12 @@
+PIM_CUT1_1 451F8CAA  ~z~Hey, player...
+PIM_CUT1_2 72FF6869  ~z~Hey.
+PIM_CUT1_3 21BCC5E5  ~z~Remember me?
+PIM_CUT1_4 4F83A172  ~z~No, not really.
+PIM_CUT1_5 664BCF06  ~z~You made me beg, player... "please don't kill me boss." Remember that?
+PIM_CUT1_6 92FFA86D  ~z~Yes... I remember that. So, did you reform, like you promised?
+PIM_CUT1_7 41B105D1  ~z~Well, let's just say I made some changes, player... I made some changes.
+PIM_CUT1_8 6F5BE126  ~z~Good for you.
+PIM_CUT1_9 AB555918  ~z~Yeah, I decided I wasn't going to let nobody make me... beg anymore.
+PIM_CUT1_10 930C85B8  ~z~Come on, man, don't be a dick...
+PIM_CUT1_11 A0CB2135  ~z~I might be a dick,
+PIM_CUT1_12 B7724E83  ~z~but you's a bitch...

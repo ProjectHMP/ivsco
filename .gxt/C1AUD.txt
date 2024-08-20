@@ -1,0 +1,43 @@
+C1_CUT1_18 CED9A636  ~z~-What the hell are we doing here?~n~-We're going to meet someone.
+C1_CUT1_19 EA96DDB0  ~z~Sounds fun.
+C1_CUT1_20 ABFE5F80  ~z~You know, you and your cousin, you should get out.
+C1_CUT1_21 F0FD697D  ~z~What you're looking for you won't find.
+C1_CUT1_22 86BB94FB  ~z~Feds are all over it. Crime is done.
+C1_CUT1_23 D3802E83  ~z~You've watched too many movies.
+C1_CUT1_24 E159CA36  ~z~Whatever you say, Michelle.
+C1_CUT1_25 2B96DEAF  ~z~Or whatever your name is.
+C1_CUT1_26 39587A32  ~z~It's Karen.
+C1_CUT1_27 07631648  ~z~My name is Karen.
+C1_CUT1_28 15B1B2E5  ~z~Interesting. And you whore for the government...
+C1_CUT1_29 63104DA1  ~z~I kind of like the honesty in that.
+C1_CUT1_30 30BFEC65  ~z~I have a clear conscience.
+C1_CUT1_31 BACF0081  ~z~How very lucky for you.
+C1_CUT1_32 CD15A50E  ~z~In here. Office three-nine-six.
+C1_CUT1_33 E78AD9F8  ~z~Hi there.
+C1_CUT1_34 F9E87EB3  ~z~Here he is.
+C1_CUT1_35 84299337  ~z~I can see that. Thanks, Karen.
+C1_CUT1_36 966A37B8  ~z~Hey, cheer up, you did good. You'll get a Sammie...
+C1_CUT1_37 4C292333  ~z~if you care about that sort of thing.
+C1_CUT1_38 9E4A4778  ~z~Thank you.
+C1_CUT1_39 7912FD06  ~z~So, Mr. Bellic... quite a file, quite a story.
+C1_CUT1_40 C0560A6F  ~z~Who are you? FIB?
+C1_CUT1_41 881719F2  ~z~The FIB? Do I look homosexual?
+C1_CUT1_42 F9DA7D77  ~z~Do you think I care about the size of your Johnson?
+C1_CUT1_43 A392D0E9  ~z~Now... you can't always tell who the good guys are.
+C1_CUT1_44 952C341C  ~z~I'm not a good guy. But I'm fighting with them, and guess what? So are you.
+C1_CUT1_45 3F430847  ~z~Hooray.
+C1_CUT1_46 B1876CD2  ~z~That's the spirit.
+C1_CUT1_47 5BDDC17C  ~z~Nothing like a bit of sarcasm when someone's got you by the balls.
+C1_CUT1_48 502BAA18  ~z~Now, I need you to find something out for me.
+C1_CUT1_49 1A79BEB5  ~z~Find out everything you can about a man called Oleg Minkov.
+C1_CUT1_50 0DEC9FDF  ~z~He lives on Iroquois back in Hove Beach.
+C1_CUT1_51 D8D635B3  ~z~And if I say no?
+C1_CUT1_52 290D5620  ~z~I hand your file over to those cretins in the FIB
+C1_CUT1_53 443E8C82  ~z~and organized crime is dealt another serious blow.
+C1_CUT1_54 5694B12E  ~z~Go to his house. Any problems, call this number.
+C1_CUT1_55 61FA47F9  ~z~What's your name?
+C1_CUT1_56 73CB6B9B  ~z~Not relevant. Call me. Very soon.
+C1_CUT1_57 B5FEF001  ~z~Go.
+C1_CUT1_58 A5FCCFFD  ~z~And hey... welcome to America.
+C1_CUT1_59 9B8B3B1A  ~z~~c~Just like the Old Country.~s~
+C1_CUT1_60 9465ABB3  ~z~~c~Just like it.~s~

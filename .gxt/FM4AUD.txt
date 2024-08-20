@@ -1,0 +1,33 @@
+FM4_CUT1_1 747910B8  ~z~Are you trying to get us both killed, you fuckin' asshole?
+FM4_CUT1_2 AACB7D5C  ~z~What?
+FM4_CUT1_3 98EED9A3  ~z~I send you to destroy an organization and you only make the boss disappear.
+FM4_CUT1_4 DAACDD1A  ~z~Now his chief lieutenant is holed up in an apartment, and he wants to speak to the feds.
+FM4_CUT1_5 C9443A49  ~z~Whoa, hold on. An organization?
+FM4_CUT1_6 7F98A6F3  ~z~You fucking idiot!
+FM4_CUT1_7 6DC5034C  ~z~I paid you to do a man's job, you amateur. You fucking boy.
+FM4_CUT1_8 13E24F8C  ~z~No, no, no, no. You sent me to kill one guy. One guy who would put you in prison.
+FM4_CUT1_9 0207ABD7  ~z~Bullshit!
+FM4_CUT1_10 7D758B8D  ~z~Alright, I'll tell you what, genius, I'll tell you fucking what.
+FM4_CUT1_11 61B4540F  ~z~Tell it to the judge.
+FM4_CUT1_12 E00FD0C0  ~z~Tell him I only sent you to kill one guy... so it ain't your fault.
+FM4_CUT1_13 D659BD54  ~z~I wonder what he'll say? Maybe he'll let you walk -
+FM4_CUT1_14 BACB8638  ~z~on account of you being braindead and totally fucking mentally retarded.
+FM4_CUT1_15 A8FDE29D  ~z~Maybe he will. Either way, you're screwed.
+FM4_CUT1_16 0F6DAF83  ~z~Whoa, whoa, whoa, wait. Look.
+FM4_CUT1_17 FD330B0E  ~z~You gotta do this for me.
+FM4_CUT1_18 E264D56E  ~z~For us. Come on, you idiot.
+FM4_CUT1_19 D02330EB  ~z~One more. The guy's a fucking lowlife. He means nothing.
+FM4_CUT1_20 F07BF054  ~z~If there is a God, and he loves us, if there is, he'd want this cunt dead.
+FM4_CUT1_21 02C394E7  ~z~The guy sells heroin to kids.
+FM4_CUT1_22 FFCA8EDD  ~z~The world is full of bad people.
+FM4_CUT1_23 ED92EA6A  ~z~But we've got a lot to lose.
+FM4_CUT1_24 1C1F4786  ~z~I don't have anything to lose, Mr. McReary.
+FM4_CUT1_25 09BAA2BD  ~z~How much?
+FM4_CUT1_26 B15C71FE  ~z~You know my price. Five.
+FM4_CUT1_27 A75D5E00  ~z~Your call. I don't care.
+FM4_CUT1_28 DCDB48FB  ~z~You bastard.
+FM4_CUT1_29 C315156F  ~z~Okay...
+FM4_CUT1_30 8D3028C6  ~z~Now the guy lives in an apartment on Denver between V and W.
+FM4_CUT1_31 83791558  ~z~He's holed up there pretty tight.
+FM4_CUT1_32 1CBAC7D9  ~z~I left a rifle for you in the trunk of a car at the corner of Albany and M.
+FM4_CUT1_33 092420AC  ~z~So go there, gimme a call.

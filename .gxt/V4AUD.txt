@@ -1,0 +1,39 @@
+V4_CUT1_1 66701976  ~z~Hey, how ya doing?
+V4_CUT1_2 E7659B5F  ~z~Hey, Mickey.
+V4_CUT1_3 0CCBE62B  ~z~What'll you have?
+V4_CUT1_4 F9E94066  ~z~Glass of water.
+V4_CUT1_5 3148AF24  ~z~Glass of water.
+V4_CUT1_6 AE5E294D  ~z~Bang, bang, you are dead.
+V4_CUT1_7 D43674FD  ~z~Wake up, you moron.
+V4_CUT1_8 C4CFD630  ~z~You got me.
+V4_CUT1_9 F2DBB24B  ~z~Come over here. Sit down.
+V4_CUT1_10 3F6B5E90  ~z~You remember Ivan?
+V4_CUT1_11 4DE0FB7B  ~z~No.
+V4_CUT1_12 D42107FD  ~z~Guy you saw me talking to. This guy.
+V4_CUT1_13 E06BA092  ~z~Er... this guy?
+V4_CUT1_14 F6A5CD06  ~z~Oh, yes. You guys had a little kiss.
+V4_CUT1_15 04BD6935  ~z~Very funny... what would you say if I told you he was going to rob your cousin?
+V4_CUT1_16 9B7196A3  ~z~I'd say... what problem has he got with my cousin?
+V4_CUT1_17 A92E321C  ~z~Hold on. Hey, hey, hey gorgeous...
+V4_CUT1_18 BE4C5C58  ~z~no, I can't talk right now... what are you wearing?
+V4_CUT1_19 CE01FBC3  ~z~No, I mean underneath it... great... listen, I'll call you back, eh? Sorry.
+V4_CUT1_20 06056D85  ~z~Who was that?
+V4_CUT1_21 13CB0910  ~z~Never you mind.
+V4_CUT1_22 AA463608  ~z~Was it Ivan?
+V4_CUT1_23 BE185DAC  ~z~Ooh, that's funny. You know, for a dumb yokel, you're a very funny guy.
+V4_CUT1_24 CF3BFFF3  ~z~Yes, and for an annoying dick, you're really an annoying dick.
+V4_CUT1_25 DC859A86  ~z~Well, it's a real shame, then, that I'm the guy with the powerful friends, and you're the little punk
+V4_CUT1_26 4F4E8012  ~z~whose only friend is some fat weasel who drives a fucking cab...
+V4_CUT1_27 661CADAE  ~z~So... why is Ivan going to rob my cousin?
+V4_CUT1_28 753A4BE9  ~z~Because I want you to kill him.
+V4_CUT1_29 9B07978B  ~z~What?
+V4_CUT1_30 64282AF1  ~z~He's angered Mikhail... Mr. Faustin. Offended him.
+V4_CUT1_31 55B68E0E  ~z~He think he's stealing some paperwork from Roman.
+V4_CUT1_32 D0A183E6  ~z~You catch him, and kill him...
+V4_CUT1_33 02696775  ~z~then we say it was just a robbery that failed.
+V4_CUT1_34 FD4C5D3B  ~z~And what if I say I don't want to be your hitman?
+V4_CUT1_35 270DB0BD  ~z~Then Mr. Faustin will be very angry with you... and your cousin.
+V4_CUT1_36 A9D83654  ~z~Hmm, okay.
+V4_CUT1_37 C3E26A68  ~z~I knew we would understand each other, once I put it in this simple way.
+V4_CUT1_38 B628CEF5  ~z~Now, go wait for him by the car depot!
+V4_CUT1_39 E0702383  ~z~Hey gorgeous, yeah where were we? Okay now listen, let's talk about tonight...

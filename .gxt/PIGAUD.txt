@@ -1,0 +1,5 @@
+PIG_CUT1_1 D3082ACF  ~z~Ahh! There he is! You.
+PIG_CUT1_2 2227490C  ~z~-Me?~n~-Yeah, you!
+PIG_CUT1_3 3491EDE1  ~z~-It's him! It's that fucking guy that kidnapped me.~n~-Lady, I think you're mistaken.
+PIG_CUT1_4 FFFC84B7  ~z~That motherfucker kidnapped me! Anthony, Sal, Tony, Mark, Benny! Help me!
+PIG_CUT1_5 1A2DB919  ~z~You stay the fuck away from me, asshole. Help me!

@@ -1,0 +1,3 @@
+B5_CUT2_1 D18AA035  ~z~Did you see a fuckin' helicopter on your way here?
+B5_CUT2_2 D03E9D9D  ~z~No, I don't think so.
+B5_CUT2_3 B6DCEABA  ~z~Okay, let's go, c'mon, quick. We gotta head towards Port Tudor.

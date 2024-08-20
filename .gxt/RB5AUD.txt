@@ -1,0 +1,24 @@
+RB5_CUT1_1 574D5289  ~z~-You sure this guy's alright? You checked him out?~n~-I'm tellin' ya the guy's good.
+RB5_CUT1_2 66A2F134  ~z~Hey, here he is right here. Phil, Niko. Niko, Phil.
+RB5_CUT1_3 3B8F9B0E  ~z~So you're the guy who got jumped for a couple million?
+RB5_CUT1_4 4DDA3FA3  ~z~Yeah. You gonna pop me for it?
+RB5_CUT1_5 59C75775  ~z~Ha ha... no. I've heard good things. Some aren't friends... but y'know... what are you gonna do?
+RB5_CUT1_6 6B597A99  ~z~You're right... I've been keeping bad company.
+RB5_CUT1_7 3C419C6A  ~z~Oh, you mean this guy? He's okay...
+RB5_CUT1_8 0FD84398  ~z~well he pays up and he ain't gone state's yet.
+RB5_CUT1_9 1E6FE0C7  ~z~Very funny. Ha, ha.
+RB5_CUT1_10 4234D7FE  ~z~Listen we got a lot of missing money, and we got a problem with these fucking bikers...
+RB5_CUT1_11 F29DB89D  ~z~And I got a problem finding someone.
+RB5_CUT1_12 C480DC68  ~z~Yeah, I nearly got something on that.
+RB5_CUT1_13 CF47F1F6  ~z~So, we sent some of our boys after the money.
+RB5_CUT1_14 A1061573  ~z~maybe you can deal with the bikers. Calm them down.
+RB5_CUT1_15 B104B570  ~z~They're causing trouble on the corner of Vauxite and Exeter.
+RB5_CUT1_16 8B956A92  ~z~Sure.
+RB5_CUT1_17 5D568E15  ~z~Otherwise, you and Raymond here got a serious problem.
+RB5_CUT1_18 6810A389  ~z~The boss has gotta get paid.
+RB5_CUT1_19 582F03C2  ~z~Even when people forget to tell him about things they're working on...
+RB5_CUT1_20 0BE8E7DF  ~z~Don't bust my balls. What's the point of talking about things unless they become real?
+RB5_CUT1_21 DB0C061A  ~z~I'm sure.
+RB5_CUT1_22 CA996539  ~z~I'm sure you're sure Phil, you of all people.
+RB5_CUT1_23 B8D6C1B4  ~z~Now what the hell does that mean?
+RB5_CUT1_24 A5FE9C04  ~z~-Nothing... I mean come on, you're a guy who knows what's what...~n~-Yeah, yeah, yeah, okay.

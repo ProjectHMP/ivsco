@@ -1,0 +1,31 @@
+C3_CUT1_1 981210A3  ~z~Come in.
+C3_CUT1_2 8B4B7716  ~z~You're late... and please calm down out there.
+C3_CUT1_3 740B4896  ~z~Excuse me?
+C3_CUT1_4 66F1AE63  ~z~I didn't give you a free pass to act like an asshole. You're bringing a lot of heat.
+C3_CUT1_5 51B683ED  ~z~Hanging out with bad people, doing bad things, making idiot moves.
+C3_CUT1_6 3CAB59CF  ~z~I'm an idiot. I move...
+C3_CUT1_7 2E69BD4C  ~z~True... but the last thing I need is you getting caught.
+C3_CUT1_8 381DD0B8  ~z~Why? Because I lead them to you in some plea bargain thing?
+C3_CUT1_9 29E1343F  ~z~To me? Who am I? There's a hundred guys in this building alone who fit my description.
+C3_CUT1_10 7E86F656  ~z~Middle aged men, paunchy, glasses... you bring them here?
+C3_CUT1_11 07F30940  ~z~What's this? Empty office, leased to a man who died in the last days of Vietnam...
+C3_CUT1_12 79A96CAB  ~z~Call me up. My number never existed. No. I'm not too worried about that.
+C3_CUT1_13 3CC3F2E1  ~z~I mean, I think you'll end up on a flight deck, but that's your business.
+C3_CUT1_14 2E1A558E  ~z~Then what?
+C3_CUT1_15 470A076D  ~z~Because you're good!
+C3_CUT1_16 C072FA3D  ~z~Because I need you to keep being good. And you're getting distracted.
+C3_CUT1_17 635D4013  ~z~Funny, yeah. Good.
+C3_CUT1_18 552DA3B4  ~z~I need someone neutralized.
+C3_CUT1_19 8D91947B  ~z~Guy is moving a lot of money for terrorists...
+C3_CUT1_20 7DF2745D  ~z~Whatever. It doesn't really matter. The guy's gotta go.
+C3_CUT1_21 31A2DBBF  ~z~But I need to know his movements first.
+C3_CUT1_22 21C83C0A  ~z~How? I've got something that's going to help you.
+C3_CUT1_23 452E82D6  ~z~Head over to Albany Avenue in Lancet and give me a call. Go.
+C3_CUT1_24 B79DE7B3  ~z~Can I get paid for this? Can I get a medal?
+C3_CUT1_25 6EA8D5CA  ~z~Did you get a medal in your last war?
+C3_CUT1_26 5AE1AE3C  ~z~What did you give Michelle? For me.
+C3_CUT1_27 01D37C1D  ~z~Michelle? Karen. We gave her her life back.
+C3_CUT1_28 EC855181  ~z~We didn't play too rough.
+C3_CUT1_29 A7564724  ~z~We gave her some money. She still works for us.
+C3_CUT1_30 6579D46C  ~z~What about me?
+C3_CUT1_31 7E89868F  ~z~We'll discuss that later.

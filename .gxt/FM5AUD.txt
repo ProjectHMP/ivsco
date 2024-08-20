@@ -1,0 +1,41 @@
+FM5_CUT1_1 106A7545  ~z~Why didn't you tell me Derrick was back?
+FM5_CUT1_2 FADD4A2B  ~z~What?
+FM5_CUT1_3 5DE01037  ~z~Why didn't you tell me you was hanging around with my brother?
+FM5_CUT1_4 9065F542  ~z~I assumed if you cared, you'd have found out.
+FM5_CUT1_5 C984E77B  ~z~Well, I have found out!
+FM5_CUT1_6 74113C99  ~z~Jesus. You know Derrick's not well?
+FM5_CUT1_7 1B040A80  ~z~-No?~n~-No. He's sick.
+FM5_CUT1_8 4CDEEE35  ~z~Always was.
+FM5_CUT1_9 7EB951E9  ~z~He's always off getting involved in someone else's fight.
+FM5_CUT1_10 42A54CB2  ~z~Making a fool of himself. Betraying people. Going into hiding.
+FM5_CUT1_11 4CEB613E  ~z~He's an idiot... and a coward.
+FM5_CUT1_12 974875F7  ~z~It's not my business.
+FM5_CUT1_13 277D1662  ~z~Whatever he stood for, he betrayed.
+FM5_CUT1_14 400B4786  ~z~He only left here in the first place because he was caught stealing...
+FM5_CUT1_15 59C47AF8  ~z~from the Mafia!
+FM5_CUT1_16 1D06017C  ~z~He's a pathetic wretch.
+FM5_CUT1_17 2F38A5E1  ~z~Okay, I got it, so?
+FM5_CUT1_18 06D7D510  ~z~Now, he's going to ruin my life!
+FM5_CUT1_19 A0A808B2  ~z~If it wasn't bad enough having a bunch of crooks for brothers,
+FM5_CUT1_20 A05F1284  ~z~now I've got him threatening to talk to a journalist!
+FM5_CUT1_21 90247203  ~z~About his family, about me!
+FM5_CUT1_22 1E2C8E15  ~z~Well, tell him to be quiet.
+FM5_CUT1_23 0C12E9DE  ~z~I am trying to become the Commissioner of Police.
+FM5_CUT1_24 3AFB47B2  ~z~I'll be a laughing stock.
+FM5_CUT1_25 28ACA315  ~z~A cop with a famous, snitching traitor for a brother.
+FM5_CUT1_26 E5311C1B  ~z~You know,
+FM5_CUT1_27 D6F77FA8  ~z~the crooks I can handle, see that I can spin, but not this. Not this.
+FM5_CUT1_28 01D5D564  ~z~You've got a big problem then.
+FM5_CUT1_29 EF653083  ~z~Me? Uh-uh.
+FM5_CUT1_30 BEC74BE0  ~z~We, my friend. We.
+FM5_CUT1_31 B40A3666  ~z~You stop him.
+FM5_CUT1_32 A0E5901D  ~z~-Stop?~n~-Shh.
+FM5_CUT1_33 97057C69  ~z~Stop.
+FM5_CUT1_34 1580F952  ~z~-Kill your brother?~n~-He's already dead.
+FM5_CUT1_35 EBBFA5D0  ~z~Just put him out of his misery.
+FM5_CUT1_36 DC4906E3  ~z~-Fuck you.~n~-No, fuck you, pal.
+FM5_CUT1_37 CF8AED67  ~z~I'm going to meet him in the courtyard park off Bismark in Lancet.
+FM5_CUT1_38 10B1EFBC  ~z~Deal with him.
+FM5_CUT1_39 FE544B01  ~z~Make him a tragedy, not a disaster.
+FM5_CUT1_40 63451611  ~z~Do it, or I will put you away.
+FM5_CUT1_41 4D04E991  ~z~Oh - don't push me.

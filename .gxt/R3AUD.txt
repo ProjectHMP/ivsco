@@ -1,0 +1,38 @@
+R3_CUT1_1 7256FA60  ~z~Come on, Dardan, what's your problem?
+R3_CUT1_2 C9712893  ~z~I don't have problem. You do.
+R3_CUT1_3 BEC11333  ~z~Don't be a dick, man... come o...
+R3_CUT1_4 25586064  ~z~Where's your Russian friend now, eh?
+R3_CUT1_5 1B334C1A  ~z~He's not my friend... he's my loan shark...
+R3_CUT1_6 4E76B2AC  ~z~Stop this.
+R3_CUT1_7 44DB9F76  ~z~Who are you?
+R3_CUT1_8 AAF3EBA1  ~z~Get out of here.
+R3_CUT1_9 9932481E  ~z~-Niko...~n~-Yes.
+R3_CUT1_10 69132AAC  ~z~Oh, my arm. Oh!
+R3_CUT1_11 7AFCCE7F  ~z~And what about you?
+R3_CUT1_12 85A6E3D3  ~z~Help me! Help me!
+R3_CUT1_13 17468714  ~z~Come on, ~c~asshole!~s~
+R3_CUT1_14 C927EAD0  ~z~Bledar! Help me!
+R3_CUT1_15 5ACC8E1B  ~z~Get out of here now! And if you come back,
+R3_CUT1_16 65B2A3E7  ~z~I'll kill you! You understand?
+R3_CUT1_17 775F4740  ~z~You forgot this, you Albanian pricks!
+R3_CUT1_18 F618C4B9  ~z~Shit, Niko - what did you do?
+R3_CUT1_19 0FC4F811  ~z~He was going to stab me.
+R3_CUT1_20 F8E63CCC  ~z~Now he's going to kill you!
+R3_CUT1_21 3ABDC07A  ~z~Fuck him.
+R3_CUT1_22 18497B92  ~z~Look at this mess. Screwed! Again.
+R3_CUT1_23 EA1B9F37  ~z~You want to know why I'm not living in a nice condo, banging four women?
+R3_CUT1_24 31FDAEFA  ~z~It's because of shit like this.
+R3_CUT1_25 943B7368  ~z~-Assholes threatening me.~n~-Shut up!
+R3_CUT1_26 4D1F653D  ~z~Oh great... Mallorie.
+R3_CUT1_27 1FE50AC9  ~z~Hey, beautiful! Huh? Yeah... great.
+R3_CUT1_28 67491990  ~z~Uh... listen, I'm having a bit of a problem at the office...
+R3_CUT1_29 7907BD0D  ~z~Umm, I can't do it - Niko can do it...
+R3_CUT1_30 19E8FD65  ~z~Huh? Do what?
+R3_CUT1_31 07FB598A  ~z~Well why would you want me then?
+R3_CUT1_32 B55EB44E  ~z~Well screw you, then.
+R3_CUT1_33 A3EE116D  ~z~Great girl... can you do me a favor? Mallorie needs a lift.
+R3_CUT1_34 E95A9C55  ~z~Can you go pick her up at the Hove Beach subway station?
+R3_CUT1_35 5789F8B2  ~z~Yeah...
+R3_CUT1_36 05E7556E  ~z~Take the cab. She's got a friend with her.
+R3_CUT1_37 F40EB1BD  ~z~-Maybe someone you can date!~n~-Fuck you.
+R3_CUT1_38 8C86629E  ~z~Oh, man, look at this crap. My computer and everything.

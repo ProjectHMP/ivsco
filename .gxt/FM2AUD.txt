@@ -1,0 +1,54 @@
+FM2_CUT1_1 B8AEF38F  ~z~-Get off me.~n~-Get in there. Stop with this okay?
+FM2_CUT1_2 85FB8E29  ~z~-Oh, okay. Have a nice day.~n~-Get the fuck off me.
+FM2_CUT1_3 F74470AD  ~z~Hey uh, Jimmy, how you doing?
+FM2_CUT1_4 C5D30DCB  ~z~Come on Jimmy, let's go to my office.
+FM2_CUT1_5 D4E9ABF8  ~z~Jimmy?
+FM2_CUT1_6 A0FB441C  ~z~You're undercover. As in deep.
+FM2_CUT1_7 8E9B1F5C  ~z~Heya, Chief.
+FM2_CUT1_8 9CCDBBC1  ~z~Hey Mitch... looking good.
+FM2_CUT1_9 6BC5D9B2  ~z~Gastric bypass worked out well for you I see...
+FM2_CUT1_10 94E95F74  ~z~Yeah thanks. I'll tell my therapist about you...
+FM2_CUT1_11 9E337208  ~z~tell her my boss keeps sexually harassing me.
+FM2_CUT1_12 69F30988  ~z~Oh yeah, you wish.
+FM2_CUT1_13 7BB9AD15  ~z~I could use a drink. You?
+FM2_CUT1_14 F567A07F  ~z~No.
+FM2_CUT1_15 4795C4DA  ~z~That motherfucker thinks he can drag me down.
+FM2_CUT1_16 5701E3B2  ~z~What's wrong now?
+FM2_CUT1_17 28D40757  ~z~Oh man...
+FM2_CUT1_18 BF1EB3EA  ~z~Sure?
+FM2_CUT1_19 10E7D77F  ~z~Listen. Where to begin? I don't know.
+FM2_CUT1_20 66DB0704  ~z~Let me put it like this...
+FM2_CUT1_21 E1C3FCD4  ~z~if a guy makes a mistake, should that ruin his life?
+FM2_CUT1_22 5B8EF06C  ~z~People don't understand how life is. Life is like a bowl of fruit...
+FM2_CUT1_23 4E4A55E3  ~z~slowly rotting in a hot kitchen...
+FM2_CUT1_24 28A10A91  ~z~Hey, I don't give a fuck about the life lessons, friend. What do you want?
+FM2_CUT1_25 9AA66E9A  ~z~I'm a good guy! I...
+FM2_CUT1_26 F877AA3B  ~z~he's got it all wrong... but one stain on my character and I'm finished.
+FM2_CUT1_27 EA9C0E84  ~z~I want to make a difference.
+FM2_CUT1_28 55C2E4D0  ~z~What?
+FM2_CUT1_29 4700474B  ~z~Some lawyer.
+FM2_CUT1_30 7580D79B  ~z~This big, white shoe firm. Thinks he's a crusader.
+FM2_CUT1_31 A36AB36E  ~z~Some morality cunt who takes photos of guys in the shower at the gym
+FM2_CUT1_32 990B9EB0  ~z~and then jacks off on his wife's face. Some...
+FM2_CUT1_33 C6BE7A15  ~z~Hey, enough. Enough.
+FM2_CUT1_34 AC4A452D  ~z~Sorry.
+FM2_CUT1_35 DD0E26B8  ~z~Look... the guy's name is Tom Goldberg.
+FM2_CUT1_36 D0250CE6  ~z~Thinks he's got something on me.
+FM2_CUT1_37 FE73E983  ~z~Gonna go to the DA with it, use it to get into congress.
+FM2_CUT1_38 EFAA4BF0  ~z~Okay.
+FM2_CUT1_39 14DB9652  ~z~Yeah. So, it's him or me.
+FM2_CUT1_40 450DFC3A  ~z~And it might as well be him, right. But...
+FM2_CUT1_41 135718CD  ~z~he's hard to get to.
+FM2_CUT1_42 21713501  ~z~Guy has a bodyguard, limo, everything.
+FM2_CUT1_43 EFB15182  ~z~You're gonna need to get one on one with him.
+FM2_CUT1_44 00D7F3CF  ~z~Not in the showers.
+FM2_CUT1_45 CE2D8E7B  ~z~Not in the showers, a job interview.
+FM2_CUT1_46 DB4B28B6  ~z~Then you can steal some files I need.
+FM2_CUT1_47 A94FC4BC  ~z~An interview?
+FM2_CUT1_48 B7026021  ~z~Sure, it'll be easy. You're an immigrant.
+FM2_CUT1_49 A5923D41  ~z~They're almost legally bound to interview you.
+FM2_CUT1_50 88F80559  ~z~But, uh... get yourself a suit.
+FM2_CUT1_51 A2AF38C7  ~z~Okay.
+FM2_CUT1_52 74C95CFC  ~z~I'll email you the details. You're a good man, Niko Bellic. A good man.
+FM2_CUT1_53 7E837070  ~z~Coming from you, that means a lot.
+FM2_CUT1_54 5C1B2BA0  ~z~It does.

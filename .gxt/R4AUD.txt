@@ -1,0 +1,7 @@
+R4_ARRIVE_1 17103874  ~z~Listen, Dardan is a good friend of mine.
+R4_ARRIVE_2 2DB865C4  ~z~It was a misunderstanding... oh!
+R4_ARRIVE_3 1CAAC3A9  ~z~Hey!
+R4_ARRIVE_4 D25D2F0B  ~z~Shit, there he is.
+R4_ARRIVE_5 0B23A093  ~z~Keep on fatboy here, and I'll talk to him.
+R4_ARRIVE_6 00908B6D  ~z~Our problem's with your cousin.
+R4_ARRIVE_7 2FBE69C8  ~z~I told you to stop. Now it's too late.

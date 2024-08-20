@@ -1,0 +1,21 @@
+V2_CUT1_1 16D0350E  ~z~-You're going to have your license revoked...~n~-What?
+V2_CUT1_2 94B3B0D7  ~z~My friend, smoking in a bar is a crime. Plain and simple.
+V2_CUT1_3 8A569C1D  ~z~You're joking right? This is a joke...
+V2_CUT1_4 F03667DB  ~z~Hey, Mallorie. Tell fatty his cousin is okay... he just walked in.
+V2_CUT1_5 DDF2C354  ~z~Great girl.
+V2_CUT1_6 278ED61F  ~z~Yeah? Stay away from her.
+V2_CUT1_7 35E572CC  ~z~Of course.
+V2_CUT1_8 C51B1139  ~z~Now listen - you did good with that business the other day,
+V2_CUT1_9 E3434D89  ~z~but now one more peasant is trying to avoid paying.
+V2_CUT1_10 DDDC2927  ~z~Who?
+V2_CUT1_11 C41BF5A7  ~z~Muscovski jerk who owns a laundry on Masterson Street.
+V2_CUT1_12 91491002  ~z~Thinks in this country, business is done differently.
+V2_CUT1_13 A7A43CB8  ~z~Says he will call cops on us.
+V2_CUT1_14 78E05F2D  ~z~Okay. So?
+V2_CUT1_15 8722FBB2  ~z~Jerk needs to be taught a lesson.
+V2_CUT1_16 4C738654  ~z~Give him a beating. Let him know... might is right!
+V2_CUT1_17 7F42EBEE  ~z~Hey, stop that smoking back there.
+V2_CUT1_18 6459B61C  ~z~~c~-Screw you.~s~~n~-Easy, buddy.
+V2_CUT1_19 3290D28B  ~z~Go on. Do what you gotta do. But remember, you see a cop... you don't know me.
+V2_CUT1_20 F8C2E69C  ~z~I see anyone, I don't know you.
+V2_CUT1_21 4074F607  ~z~Ho, ho.

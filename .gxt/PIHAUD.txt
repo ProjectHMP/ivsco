@@ -1,0 +1,25 @@
+PIH_CUT1_1 A56FF28C  ~z~Hey!
+PIH_CUT1_2 3C1D1FE8  ~z~Hey.
+PIH_CUT1_3 82B1AD10  ~z~Niko, it's me, Hossan.
+PIH_CUT1_4 90744895  ~z~Hossan! How are you?
+PIH_CUT1_5 E3CB6F3A  ~z~Wow, man, it's good to see you.
+PIH_CUT1_6 71D10B4F  ~z~Ah, you too.
+PIH_CUT1_7 BF50A645  ~z~So you stayed?
+PIH_CUT1_8 CD8E42C0  ~z~Yes... and you... did you meet your cousin?
+PIH_CUT1_9 15735289  ~z~Yes... things have been... complicated - how about you?
+PIH_CUT1_10 AB713FEE  ~z~Nonstop madness.
+PIH_CUT1_11 ACB64278  ~z~Brilliant! I have met a lot of lunatics and life is wild.
+PIH_CUT1_12 058B7421  ~z~My friend's uncle gave me a job selling handbags...
+PIH_CUT1_13 97BC9885  ~z~knock offs, you know.
+PIH_CUT1_14 46B0F663  ~z~Sure.
+PIH_CUT1_15 D63F9586  ~z~It's so easy! Easier than working on a Goddamn boat, anyway...
+PIH_CUT1_16 13180F32  ~z~and women, they love you!
+PIH_CUT1_17 34A75250  ~z~Man, after three months on that ship... let's just say I was not cut out for the sailor's life.
+PIH_CUT1_18 6D4C4399  ~z~Ah, shit - it's good to see you...
+PIH_CUT1_19 7F19E734  ~z~You too.
+PIH_CUT1_20 B844DAFD  ~z~Hey, Hossan speaking. Yes, I'm on my way.
+PIH_CUT1_21 4B9C01A9  ~z~Niko, hey what are you up to?
+PIH_CUT1_22 4AC6FFEF  ~z~Nothing too urgent.
+PIH_CUT1_23 DCEC243F  ~z~Why don't you walk with me? I've got to go collect some money.
+PIH_CUT1_24 264936F4  ~z~Okay, sure.
+PIH_CUT1_25 143A92D7  ~z~Great.

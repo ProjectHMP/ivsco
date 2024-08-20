@@ -1,0 +1,21 @@
+PIB_CUT3_1 EAE00C9D  ~z~Hey, man! Remember me?
+PIB_CUT3_2 7E213321  ~z~Sure - the crack smoking American dream.
+PIB_CUT3_3 9052D784  ~z~I'm clean, man... what a ride.
+PIB_CUT3_4 A20FFAFE  ~z~Yeah. You look good.
+PIB_CUT3_5 3135994B  ~z~I feel good.
+PIB_CUT3_6 D38D5DF8  ~z~Good.
+PIB_CUT3_7 D49C6016  ~z~I sank as far as a man can sink...
+PIB_CUT3_8 66F904CD  ~z~when you're giving blowjobs at ten bucks a pop, so you can score your next rock.
+PIB_CUT3_9 7A6B2BB1  ~z~And I have an Ivy League education...
+PIB_CUT3_10 EEB36EA9  ~z~Jesus. What a disgrace.
+PIB_CUT3_11 D8694215  ~z~But I'm over that now. I'm engaged!
+PIB_CUT3_12 46B69EAE  ~z~Hey. Congratulations.
+PIB_CUT3_13 30F4732A  ~z~Hey, I owe you, man!
+PIB_CUT3_14 2321D785  ~z~I mean, I was a dick. But I'm making up for it.
+PIB_CUT3_15 FB9A8877  ~z~I was a loud mouthed dick and I apologize.
+PIB_CUT3_16 7DDA0CF8  ~z~Hey, apology accepted. Don't worry about it.
+PIB_CUT3_17 680DE15C  ~z~Listen... I gotta go pay off one of my dealers. Make things right.
+PIB_CUT3_18 6477DA30  ~z~Would you come with me? I hate to ask, but I'm afraid the temptation might get to me.
+PIB_CUT3_19 56A23E85  ~z~Please?
+PIB_CUT3_20 25345C72  ~z~Sure.
+PIB_CUT3_21 38CC83A2  ~z~Awesome.

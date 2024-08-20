@@ -1,0 +1,28 @@
+F7_CUT1_1 92B9404B  ~z~Sharp eyes, huh?
+F7_CUT1_2 A417E308  ~z~You dunno? Me have it, seen, star?
+F7_CUT1_3 770988EC  ~z~Hey, Niko. Glad you could make it.
+F7_CUT1_4 15C3C65E  ~z~Yes. You got the money?
+F7_CUT1_5 280DEAF2  ~z~Sure.
+F7_CUT1_6 F8D50C81  ~z~But I just wanted to say how grateful me and my bosses are for what you did.
+F7_CUT1_7 5B1ED113  ~z~Good.
+F7_CUT1_8 DEC8D869  ~z~Yes.
+F7_CUT1_9 F0D67C84  ~z~And I just wanted to check something with you.
+F7_CUT1_10 B8F9C41C  ~z~Okay.
+F7_CUT1_11 C7356093  ~z~You are Niko Bellic, correct?
+F7_CUT1_12 B4BC3BA1  ~z~What is this?
+F7_CUT1_13 8104D433  ~z~And you used to work the coast in the Mediterranean, smuggling people into Italy?
+F7_CUT1_14 9022726E  ~z~-I don't know what you're talking about.~n~-But you messed up...
+F7_CUT1_15 5E600EEA  ~z~and left a lot of bad debt.
+F7_CUT1_16 1D000C23  ~z~You left a good friend of mine out of pocket, big time.
+F7_CUT1_17 4F84712B  ~z~Hello, Niko.
+F7_CUT1_18 F9384494  ~z~Hello...
+F7_CUT1_19 2B67A8F2  ~z~Mr. Bulgarin.
+F7_CUT1_20 3809C392  ~z~Ras!
+F7_CUT1_21 4A00677F  ~z~Where's our money?
+F7_CUT1_22 1750021F  ~z~I don't know. I didn't rob you.
+F7_CUT1_23 2991A6A2  ~z~Really?
+F7_CUT1_24 02DB5936  ~z~We were busted a mile off the coast. I had to swim for my life.
+F7_CUT1_25 1515FDAB  ~z~I don't know what happened. I nearly drowned.
+F7_CUT1_26 DE549029  ~z~My heart is bleeding.
+F7_CUT1_27 BBF74B6B  ~z~I did my best! I didn't fuck up!
+F7_CUT1_28 705AB3BF  ~z~~c~Remove him.~s~

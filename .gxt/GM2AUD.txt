@@ -1,0 +1,45 @@
+GM2_CUT1_1 05D70275  ~z~Oh, there he is...
+GM2_CUT1_2 1808A6D8  ~z~the sophisticated European!
+GM2_CUT1_3 988D27E3  ~z~I don't know about that.
+GM2_CUT1_4 A9DF4A87  ~z~So, how are you?
+GM2_CUT1_5 4CB8903B  ~z~Alright, yeah.
+GM2_CUT1_6 5E7E33C6  ~z~Kate!
+GM2_CUT1_7 DEE0B48D  ~z~Don't stand there talking to him on the door step, ask him in...
+GM2_CUT1_8 F0A6D819  ~z~Come in.
+GM2_CUT1_9 03D37E72  ~z~Ma, you remember the boys' friend, Niko?
+GM2_CUT1_10 C4A44635  ~z~How are you?
+GM2_CUT1_11 BC0FB50C  ~z~Good, and you?
+GM2_CUT1_12 AE499980  ~z~Put it like this, my boys are out of control, my daughter can't find a man,
+GM2_CUT1_13 05E0C8A1  ~z~and my husband is in hell.
+GM2_CUT1_14 1426E52D  ~z~I'm thinking... God moves in mysterious ways.
+GM2_CUT1_15 F0BE9E5D  ~z~That's Mother for you. Always a joy.
+GM2_CUT1_16 FEF83AD0  ~z~Niko!
+GM2_CUT1_17 CEB35A37  ~z~You made it, huh?
+GM2_CUT1_18 DD7577BB  ~z~Well, I'll leave you to your men's talk.
+GM2_CUT1_19 A9D79080  ~z~I hope you impress each other.
+GM2_CUT1_20 6D5B93FD  ~z~Hey, look at me.
+GM2_CUT1_21 A031F9A9  ~z~Yeah. Yeah...
+GM2_CUT1_22 91AA5C9A  ~z~I thought so.
+GM2_CUT1_23 8BF25132  ~z~You'll do fine.
+GM2_CUT1_24 7E9BB685  ~z~Fine at what?
+GM2_CUT1_25 2F651819  ~z~Some gimp work for the Pegorinos. I owe them.
+GM2_CUT1_26 A1967C7A  ~z~Oh, please...
+GM2_CUT1_27 44EAC324  ~z~I'd do it myself, but I think I'm being watched by the cops, someone.
+GM2_CUT1_28 3FC0B8D0  ~z~I think I'm about to get pinched again.
+GM2_CUT1_29 E86F8A2F  ~z~-Shit, really?~n~-Yeah. It's happened before.
+GM2_CUT1_30 7A3025FE  ~z~I keep seeing the same car watching.
+GM2_CUT1_31 4BB6C908  ~z~All it means is someone's been speaking, we just have to find out who and make 'em stop.
+GM2_CUT1_32 5D7D6C95  ~z~In the meantime, I'm gonna chill things out for a bit.
+GM2_CUT1_33 C2FE3799  ~z~So... I need your help.
+GM2_CUT1_34 CB51483F  ~z~Okay.
+GM2_CUT1_35 A6AA7EF2  ~z~Attaboy... come on, got something to show you.
+GM2_CUT1_36 B0B49306  ~z~Now Pegorino's a funny guy.
+GM2_CUT1_37 F9F7A58F  ~z~Seems like his main motivation is putting his Guernsey crew on par with the five old families.
+GM2_CUT1_38 26A6FEED  ~z~Ancelottis being the weakest, he's decided to stir shit up for 'em.
+GM2_CUT1_39 DD73EC84  ~z~Now, the Ancelottis have an uneasy alliance with some Albanians.
+GM2_CUT1_40 C2384491  ~z~-They use them as hitmen, thugs, bullies.~n~-I know the type.
+GM2_CUT1_41 8D7CDB1B  ~z~Much like Jimmy the Guido uses us. So.
+GM2_CUT1_42 9F297E74  ~z~What you're gonna do is disguise yourself as an Albanian,
+GM2_CUT1_43 FCBAB9A5  ~z~and then go whack Frankie Garone, an Ancelotti long time capo.
+GM2_CUT1_44 0D8BDB47  ~z~Sure. Which Albanian?
+GM2_CUT1_45 D78BEF38  ~z~This one.

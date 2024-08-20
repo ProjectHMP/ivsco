@@ -1,0 +1,14 @@
+E2_CUT2_1 97A10104  ~z~Hey, you ready?
+E2_CUT2_2 C6695E94  ~z~Sure, let's do this. Nothing like selling some dope to let you know you're alive.
+E2_CUT2_3 D42BFA19  ~z~Let's go.
+E2_CUT2_4 52E3F78F  ~z~Yeah, let's do this.
+E2_CUT2_5 5D210C09  ~z~Alright, c'mon.
+E2_CUT2_6 6B5FA886  ~z~Hey... what's going on guys, what's going on?
+E2_CUT2_7 79D5C572  ~z~Not much. Let's do this.
+E2_CUT2_8 A22E15C6  ~z~You've got the heroin? Right? Right?
+E2_CUT2_9 7BDAC924  ~z~Come on, let's do this, quickly.
+E2_CUT2_10 76763FC9  ~z~But you've got the heroin, correct? You're carrying it, correct? I mean it's a simple question.
+E2_CUT2_11 38B8C44F  ~z~What's wrong with you? You're being fucking weird.
+E2_CUT2_12 944B7B73  ~z~Not weird, man, I just wanna know if you're carrying the stuff right?
+E2_CUT2_13 66749FC6  ~z~You ain't right, friend, come on... let's get out of here.
+E2_CUT2_14 AF5E319C  ~z~LCPD. Freeze motherfucker. I said freeze.

@@ -1,0 +1,31 @@
+RB1_CUT1_1 61647E2E  ~z~Oh! Table for one? We got a beautiful baccala salad.
+RB1_CUT1_2 DC167394  ~z~I'm here for someone. I'm here for Ray.
+RB1_CUT1_3 AAC490F1  ~z~Oh, Ray? Why didn't you say so? Ray's a beautiful man, you know what I mean?
+RB1_CUT1_4 BC91348A  ~z~He's in the back.
+RB1_CUT1_5 1748E9F8  ~z~Thanks.
+RB1_CUT1_6 7472A44A  ~z~Hey, Nicky... how you doing, kid?
+RB1_CUT1_7 CF1C599C  ~z~Fine.
+RB1_CUT1_8 E19DFE9F  ~z~That mick bastard friend of yours says you're okay.
+RB1_CUT1_9 AB53920B  ~z~Good.
+RB1_CUT1_10 88C8455B  ~z~That you're reliable.
+RB1_CUT1_11 26E5019A  ~z~Yup.
+RB1_CUT1_12 55955EFA  ~z~But can I trust you? Hmm?
+RB1_CUT1_13 83C83B5F  ~z~Why go through all this? Why stick your neck out? Why do all this work?
+RB1_CUT1_14 721317F5  ~z~Because I need the money, and because I can't do anything else.
+RB1_CUT1_15 EC410C4F  ~z~And because I'm good at it.
+RB1_CUT1_16 1A8DE8E8  ~z~Sure...
+RB1_CUT1_17 08A3C514  ~z~And because I am trying to find someone.
+RB1_CUT1_18 3E393042  ~z~Okay, maybe we can help. Let's see how we do.
+RB1_CUT1_19 D4A25D06  ~z~So anyways, I got this friend,
+RB1_CUT1_20 56ADE642  ~z~only the friend ain't my friend no more, because he ain't getting me the vig he owes.
+RB1_CUT1_21 7E08B4F7  ~z~Okay...
+RB1_CUT1_22 7032994B  ~z~Seems this guy does not respect the waste management business.
+RB1_CUT1_23 2B658FB2  ~z~Lives over on a project on Galveston near U.
+RB1_CUT1_24 8B955010  ~z~Name is Teddy Benevides.
+RB1_CUT1_25 D5E464A1  ~z~Do what you gotta do.
+RB1_CUT1_26 C83A494D  ~z~Somebody gets burnt, so be it.
+RB1_CUT1_27 82773DC8  ~z~Fine. And you'll pay.
+RB1_CUT1_28 72C59E65  ~z~Are you kiddin', I'll pay double.
+RB1_CUT1_29 0C25D133  ~z~Good.
+RB1_CUT1_30 EC380FF8  ~z~But, you mess up?
+RB1_CUT1_31 C0D93937  ~z~Bad things are gonna happen.

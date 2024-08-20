@@ -1,0 +1,15 @@
+F2_ARR1_1 BB8F823B  ~z~Where's your boss?
+F2_ARR1_2 EAC0609C  ~z~What do ya mean? He's uh...
+F2_ARR1_3 DFF24B00  ~z~In the back?
+F2_ARR1_4 010C0D2F  ~z~ -No, no, no, he's...~n~-They better not be filming.
+F2_ARR1_5 22DB50CD  ~z~No, they just havin' a meeting. I swear...
+F2_ARR1_6 D579360A  ~z~Get out of the way.
+F2_ARR1_7 C74719A6  ~z~Fuck...
+F2_BACK_1 138B90B7  ~z~You see, they don't make 'em like that no more.
+F2_BACK_2 B0CECB37  ~z~That's a vintage bush.
+F2_BACK_3 A553B441  ~z~If it wasn't for that, I'd say this weren't worth transferring to DVD.
+F2_BACK_4 4CB08300  ~z~Hey, Joseph! You think you can expand your business interests make these pornos and sell them,
+F2_BACK_5 C2AD6EF4  ~z~ -Woah, woah... ~n~-and we won't know about it, huh?
+F2_BACK_6 DEAEA6F6  ~z~We was just waiting 'til the books was closed at the end of the financial year.
+F2_BACK_7 CC71027B  ~z~ -Then we was gonna cut you in.~n~-Your books are closed until you pay us our cut.
+F2_BACK_8 93BE1116  ~z~Niko, take this and cover Joseph.

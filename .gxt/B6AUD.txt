@@ -1,0 +1,26 @@
+B6_CUT1_1 E1363DDA  ~z~Okay, I'll see ya later.
+B6_CUT1_2 18C22CF1  ~z~-Yeah, okay. I'll see you later. ~n~-You take care now.
+B6_CUT1_3 06F8895E  ~z~Give me a call.
+B6_CUT1_4 744763FA  ~z~Hey.
+B6_CUT1_5 6272C051  ~z~It's not what it looks like...
+B6_CUT1_6 619DBEA7  ~z~Okay.
+B6_CUT1_7 502E1BC8  ~z~It's not like that.
+B6_CUT1_8 BD10F58C  ~z~We talk.
+B6_CUT1_9 ABC252EF  ~z~So do us all a favor and keep quiet.
+B6_CUT1_10 9644394B  ~z~Sure.
+B6_CUT1_11 87B19C26  ~z~But, Phil - and...
+B6_CUT1_12 E1FF50C4  ~z~I don't mean to take advantage, but...
+B6_CUT1_13 1755BB70  ~z~maybe I need help one time.
+B6_CUT1_14 D187AFD5  ~z~Maybe I can give you a call?
+B6_CUT1_15 F2D0F267  ~z~What do you mean?
+B6_CUT1_16 491A9F01  ~z~I mean...
+B6_CUT1_17 6AE5E297  ~z~I need to find something out about someone. Maybe you can help.
+B6_CUT1_18 24B2D62E  ~z~Are you fucking blackmailing me?
+B6_CUT1_19 568F39EA  ~z~No!
+B6_CUT1_20 0DC9A99C  ~z~I'm asking for a favor.
+B6_CUT1_21 006D0EE3  ~z~Why do you think I put my neck on the line for you?
+B6_CUT1_22 7FF18DEA  ~z~Because I need help with something.
+B6_CUT1_23 8E412A89  ~z~You know, since you don't look like you're full of crap,
+B6_CUT1_24 9B6B44DD  ~z~how could I say no?
+B6_CUT1_25 A935E072  ~z~Enough of this chit-chat.
+B6_CUT1_26 48A61F54  ~z~C'mon, let's go.

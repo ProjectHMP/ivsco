@@ -1,0 +1,26 @@
+MI1_CUT1_1 FF2340C3  ~z~Coming...
+MI1_CUT1_2 1200E67E  ~z~Who is it?
+MI1_CUT1_3 FB8EB99A  ~z~Hey, it's Niko.
+MI1_CUT1_4 7E943FA3  ~z~Hey... I'm just finishing my hair. Come in.
+MI1_CUT1_5 482CD2D5  ~z~Thank you.
+MI1_CUT1_6 5317E8AB  ~z~I'll be with you in a minute.
+MI1_CUT1_7 248A0B90  ~z~Did you just move in?
+MI1_CUT1_8 A38F8999  ~z~No... why?
+MI1_CUT1_9 B5B62DE6  ~z~All your stuff is new. Some even still have tags on.
+MI1_CUT1_10 1D8BCB94  ~z~Yeah, well... I like things clean.
+MI1_CUT1_11 EACD6618  ~z~I can see that... but, er... everything is new.
+MI1_CUT1_12 F91902AF  ~z~Yeah. I'm kind of obsessed with cleanliness...
+MI1_CUT1_13 BDA48BC7  ~z~things get on my nerves and I just throw them out.
+MI1_CUT1_14 D2D8B62F  ~z~OCD or something?
+MI1_CUT1_15 9972C348  ~z~Oh.
+MI1_CUT1_16 AE21ECA6  ~z~So... where you taking me?
+MI1_CUT1_17 7614FC8D  ~z~Ah...
+MI1_CUT1_18 83E99836  ~z~you look good.
+MI1_CUT1_19 52A335AA  ~z~Aw, thanks...
+MI1_CUT1_20 3215F5C0  ~z~I don't know - I'm new here.
+MI1_CUT1_21 2B2BE7C8  ~z~I thought maybe we could go to the, uh...
+MI1_CUT1_22 2572DC56  ~z~funfair.
+MI1_CUT1_23 4EB9AEE7  ~z~Yeah, great!
+MI1_CUT1_24 3913839B  ~z~Let's go - love the funfair!
+MI1_CUT1_25 F24675FE  ~z~Actually we call it, um, "carnival" here.
+MI1_CUT1_26 CC7D2A6C  ~z~Just a little difference. Ah... whoop-de-doo!

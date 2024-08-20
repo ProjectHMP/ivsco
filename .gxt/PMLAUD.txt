@@ -1,0 +1,27 @@
+PML_CUT1_1 FB0B04EC  ~z~Comrades!
+PML_CUT1_2 E9FC62CB  ~z~Excuse me?
+PML_CUT1_3 E7395D45  ~z~Didn't I see you at Comrades, pal?
+PML_CUT1_4 F673FBBE  ~z~Where?
+PML_CUT1_5 E3ADD632  ~z~That bar... Mickey's place.
+PML_CUT1_6 BF058CE2  ~z~ I'm sure you was one of those commie bastards used to come in there. I remember you.
+PML_CUT1_7 B04FEF77  ~z~Yes... you were the drunk guy who fell over.
+PML_CUT1_8 9B56C585  ~z~Ha ha! That's about right. I was a mess, a mess!
+PML_CUT1_9 892C2130  ~z~But I'm all sorted out now.
+PML_CUT1_10 F1AE37A0  ~z~I'm over that shit!
+PML_CUT1_11 3F795335  ~z~Good for you!
+PML_CUT1_12 54E27E07  ~z~Yeah... yes, siree. I'm a new man. Not dependent on anything.
+PML_CUT1_13 22979972  ~z~No more drink. No drugs... even gave up hookers. Everything.
+PML_CUT1_14 A8DEA5FE  ~z~Good! Why are you telling me this?
+PML_CUT1_15 F60BC05B  ~z~It's good to share.
+PML_CUT1_16 0C36ECB1  ~z~Cool.
+PML_CUT1_17 E1619707  ~z~I'm positive person now. Positive.
+PML_CUT1_18 5F05124C  ~z~I'm through with problems. Now they are just opportunities.
+PML_CUT1_19 75473ED0  ~z~Well, good luck with your opportunities. I've got to go.
+PML_CUT1_20 68A02682  ~z~Oh, no! Wait, wait, wait!
+PML_CUT1_21 61FE193E  ~z~I know... this is a lot to ask, but I was wondering...
+PML_CUT1_22 79B9C8BD  ~z~I owe a guy some money, from my drinking days...
+PML_CUT1_23 2C402DCF  ~z~and... he's kind of angry.
+PML_CUT1_24 6E6DB225  ~z~I don't suppose you could come along and keep him cool?
+PML_CUT1_25 60B016AA  ~z~I'm going to pay him back.
+PML_CUT1_26 38CD46E9  ~z~Please?
+PML_CUT1_27 F314BB79  ~z~Okay.

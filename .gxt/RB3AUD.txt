@@ -1,0 +1,19 @@
+RB3_CUT1_1 ED980167  ~z~Yeah, yeah, yeah. Sure, Phil, sure.
+RB3_CUT1_2 5FCF65D4  ~z~Hey, Phil, listen.
+RB3_CUT1_3 50E94808  ~z~You know me, and I know you.
+RB3_CUT1_4 432CAC8F  ~z~Ah, I didn't mean nothin' by it.
+RB3_CUT1_5 95905129  ~z~Hey, take it easy. Oh, Phil, take it easy.
+RB3_CUT1_6 874CB4A2  ~z~Hey listen tell Jimmy I said hello.
+RB3_CUT1_7 7982990E  ~z~Okay. I'm sorry. Goodbye.
+RB3_CUT1_8 EBBCFD89  ~z~We got a problem.
+RB3_CUT1_9 C00DA62B  ~z~Who? You and me?
+RB3_CUT1_10 6A5AE6F2  ~z~Yeah.
+RB3_CUT1_11 92ACB761  ~z~I got two options. Option one, you ripped me off.
+RB3_CUT1_12 844B9A9F  ~z~Option two, Luca and his buddies ripped us both off.
+RB3_CUT1_13 6D01EC08  ~z~Hey, hey! I left them with the stuff to bring to you, as instructed.
+RB3_CUT1_14 6081D308  ~z~Maybe you're in on it.
+RB3_CUT1_15 BB6988DA  ~z~Maybe I am, but if you thought that, I wouldn't be standing here right now.
+RB3_CUT1_16 ED2B6C5D  ~z~You ain't as dumb as you look.
+RB3_CUT1_17 97C4C191  ~z~Luca hangs out in Castle Gardens.
+RB3_CUT1_18 C97DA502  ~z~Go see him, go get my stuff back so everyone can get paid. Now.
+RB3_CUT1_19 00A5934D  ~z~Right.

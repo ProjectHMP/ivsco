@@ -1,0 +1,37 @@
+BR2_CUT1_1 64D3D67B  ~z~Thirty-one, thirty-two, thirty-three, thirty-five...
+BR2_CUT1_2 730872E4  ~z~There's someone here to see you...
+BR2_CUT1_3 51392F46  ~z~I'm working out!
+BR2_CUT1_4 EABB6250  ~z~Thirty-six, thirty-seven...
+BR2_CUT1_5 C98E1FF6  ~z~Hey, Brucie.
+BR2_CUT1_6 D747BB69  ~z~Niko! One second...
+BR2_CUT1_7 A41354FD  ~z~Forty.
+BR2_CUT1_8 21C8D06A  ~z~Why didn't you tell me it was Niko? Why?
+BR2_CUT1_9 001F8D18  ~z~Man, women.
+BR2_CUT1_10 F0FC6A13  ~z~Man.
+BR2_CUT1_11 A673D503  ~z~Women.
+BR2_CUT1_12 94CD31B6  ~z~Yeah! Man, I'm ready for you, Nicky, I'm ready. I'm ready for fucking anything.
+BR2_CUT1_13 BE78050B  ~z~Ah, motherfuckers...
+BR2_CUT1_14 2CE861EE  ~z~Are you alright? You seem a little tense.
+BR2_CUT1_15 E22CCC74  ~z~Yeah! Sorry. I'm just juicing, makes me a little... pent up.
+BR2_CUT1_16 D0332881  ~z~Juicing?
+BR2_CUT1_17 75727301  ~z~Yeah. Bull shark testosterone, amigo.
+BR2_CUT1_18 63C14F9F  ~z~Ordered online from Chile.
+BR2_CUT1_19 18C439A6  ~z~Makes you feel really...
+BR2_CUT1_20 99763BF0  ~z~male.
+BR2_CUT1_21 AA58DDB5  ~z~Be careful, man. I heard that stuff does funny things to your balls.
+BR2_CUT1_22 ABE2E0C9  ~z~Hey. Do I look like I got funny balls to you?
+BR2_CUT1_23 2CED62E0  ~z~I haven't considered it. You sent me a message. What do you want?
+BR2_CUT1_24 BF4C079B  ~z~I want help! I'm losing the plot here!
+BR2_CUT1_25 D2622DC7  ~z~Pause.
+BR2_CUT1_26 E29ECE40  ~z~No, I'm shitting you, man.
+BR2_CUT1_27 778D781F  ~z~Now look, you did really good with that thing.
+BR2_CUT1_28 09C31C8C  ~z~A lot of people are very grateful.
+BR2_CUT1_29 0D262352  ~z~Now listen. That guy, Lyle, had a car worth stealing. Can you get it?
+BR2_CUT1_30 FF63FB4A  ~z~He left it in an alleyway off of Yorktown Avenue in Steinway.
+BR2_CUT1_31 D04D1D1D  ~z~If you pay like last time, no problem.
+BR2_CUT1_32 DA1730B1  ~z~Yeah, of course.
+BR2_CUT1_33 5A6AB156  ~z~Any risks?
+BR2_CUT1_34 2CB8D5F3  ~z~Nah. Easy as can be.
+BR2_CUT1_35 09088E93  ~z~Okay... I'll just go take care of it, then.
+BR2_CUT1_36 1346A30F  ~z~Yeah!
+BR2_CUT1_37 9F81BBC3  ~z~Bye.

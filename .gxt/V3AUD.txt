@@ -1,0 +1,47 @@
+V3_CUT1_1 092A09BE  ~z~Ahh, yokel there you are, okay.
+V3_CUT1_2 1BA9AEBD  ~z~Vlad.
+V3_CUT1_3 EDAA52BB  ~z~Come on, let's go for a walk, okay?
+V3_CUT1_4 FFE6F734  ~z~Right.
+V3_CUT1_5 D21C9BA0  ~z~Okay, come on.
+V3_CUT1_7 A812C78D  ~z~-Where are we going?~n~-To my car.
+V3_CUT1_8 B64D6402  ~z~Why?
+V3_CUT1_9 88970896  ~z~Because of your cousin owing me a lot of money and until he pays me, your fresh off the boat yokel ass is mine.
+V3_CUT1_10 6FC2CFA8  ~z~What the fuck you mean why?
+V3_CUT1_11 7D2F6A85  ~z~Hey, you're a pretty relaxed guy, huh Vlad?
+V3_CUT1_12 6B704707  ~z~Come on.
+V3_CUT1_13 56C71DB5  ~z~~c~Move, you old hag.~s~
+V3_CUT1_14 46FD7E22  ~z~Come on, yokel.
+V3_CUT1_15 326B54FE  ~z~What's wrong with you? You gonna jump me?
+V3_CUT1_16 20AAB17D  ~z~No... I had a late night last night. Spent it with Mikhail.
+V3_CUT1_17 0F6D8F03  ~z~Great.
+V3_CUT1_18 FDC7EBB4  ~z~Yeah... wild.
+V3_CUT1_19 CAFF8620  ~z~So who the hell is Mikhail?
+V3_CUT1_20 2397362A  ~z~Mikhail's the man... shit my nose is bleeding. Is my nose bleeding?
+V3_CUT1_21 357059DC  ~z~No. Not yet.
+V3_CUT1_22 473AFD71  ~z~Fuck face. Come on.
+V3_CUT1_23 48FB00F1  ~z~Wait! I'm walking here. Let's go.
+V3_CUT1_24 5A50A39C  ~z~Damn city always trying to run you down, huh?
+V3_CUT1_25 6C18472B  ~z~Get a job, you deadbeat crack head.
+V3_CUT1_26 5DC82A8F  ~z~Man, where do these people get off? Like I'm gonna pay for their drug habits?
+V3_CUT1_27 6F92CE24  ~z~Well say something... you're so fucking laid back. Moron!
+V3_CUT1_28 916611C6  ~z~Come on.
+V3_CUT1_29 A2D7B4A9  ~z~Want some?
+V3_CUT1_30 C58502A7  ~z~Good.
+V3_CUT1_31 37B96712  ~z~We walked all the way over here so you could snort coke?
+V3_CUT1_32 ECFE50BD  ~z~No... listen, aaah, that's better... agh that's better.
+V3_CUT1_33 FEB7F430  ~z~Man, Mikhail gets the good stuff... it's got some laxative in it, though... gives you stomach problems.
+V3_CUT1_34 918819D2  ~z~Nice detail.
+V3_CUT1_35 A34EBD5F  ~z~Yeah, listen, ah...
+V3_CUT1_36 A624C30B  ~z~-where were we?~n~-I don't know.
+V3_CUT1_37 B7E26686  ~z~Oh yeah... so, I need you to head up to Dukes and get a car for me.
+V3_CUT1_38 467F03BD  ~z~It's a silver Blista, and it's parked in the projects by E.I.C. subway station, okay?
+V3_CUT1_39 58C12841  ~z~Sure. You got keys?
+V3_CUT1_40 5A4C2B1B  ~z~Errr, no, yokel, I need you to take the car.
+V3_CUT1_41 4C7E8F80  ~z~Asshole owes Mikhail some money. Take his car instead, eh?
+V3_CUT1_42 B82766D4  ~z~We gonna drive over there?
+V3_CUT1_43 B2715B68  ~z~What?
+V3_CUT1_44 A3A3BDCD  ~z~Are we going to drive over there?
+V3_CUT1_45 8DF4926F  ~z~No, you're gonna take the train, buddy. You think I wanna be in a car with a peasant?
+V3_CUT1_46 893988F5  ~z~Come on, I'm gonna go meet somebody...
+V3_CUT1_47 FB80ED82  ~z~-have a little party...~n~-Okay. Fine.
+V3_CUT1_48 ECBF4FFF  ~z~Have fun... dick head.

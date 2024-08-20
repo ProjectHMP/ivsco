@@ -1,0 +1,58 @@
+PX3_CUT1_1 6BFCBF2C  ~z~Hey, wassup, money?
+PX3_CUT1_2 7A545BDB  ~z~Hey.
+PX3_CUT1_3 87A27677  ~z~Come on.
+PX3_CUT1_4 14EC110C  ~z~Ladies, gimme a few minutes. Business calls.
+PX3_CUT1_5 A3402DB2  ~z~This is my town.
+PX3_CUT1_6 B071C815  ~z~Look at it.
+PX3_CUT1_7 BEDBE4E9  ~z~All them tiny ants down there. Man, shit is crazy.
+PX3_CUT1_8 5023877A  ~z~So I guess you do okay?
+PX3_CUT1_9 ED6F420B  ~z~Yeah, okay.
+PX3_CUT1_10 777D838C  ~z~But, er, what about you?
+PX3_CUT1_11 F71702C5  ~z~What motivates you?
+PX3_CUT1_12 0963A75E  ~z~Well, I need money. This pays. I can do it...
+PX3_CUT1_13 625B5948  ~z~I don't care if I live or die...
+PX3_CUT1_14 74D2FE37  ~z~and I'm looking for someone.
+PX3_CUT1_15 F4137CBE  ~z~Someone special?
+PX3_CUT1_16 BDCE1034  ~z~Yeah. You could say that. So, why do you need me?
+PX3_CUT1_17 1B7FCB96  ~z~Well I'm always looking for good guys. Build an army.
+PX3_CUT1_18 2D416F19  ~z~But in my work... people change. Money changes people.
+PX3_CUT1_19 AD45EF20  ~z~Not me. I'm still a hustler from these streets...
+PX3_CUT1_20 4FDCB34F  ~z~and I heard good things about you.
+PX3_CUT1_21 2B7C6AAF  ~z~Okay. But... I'm warning you...
+PX3_CUT1_22 1D35CE22  ~z~I'm not low budget.
+PX3_CUT1_23 46372020  ~z~Do I look like I live low budget, dog?
+PX3_CUT1_24 39FD87AD  ~z~Yo playa!
+PX3_CUT1_25 F2B0F919  ~z~The fuck you want?
+PX3_CUT1_26 E46E5C94  ~z~There's someone here for you. Dwayne or some shit. I don't know.
+PX3_CUT1_27 0E2BB00E  ~z~Motherfucker got out. Damn!
+PX3_CUT1_28 006E1493  ~z~My dude!
+PX3_CUT1_29 821197D8  ~z~Wassup, son? What's going down?
+PX3_CUT1_30 E060CE95  ~z~You didn't tell me you was getting out!
+PX3_CUT1_31 3A9F8315  ~z~Man, I would have laid on a party, got some freaks out... shit...
+PX3_CUT1_32 6CE667A2  ~z~I called. A couple of times.
+PX3_CUT1_33 3772FCB8  ~z~-Man... hey... Dwayne... This is Niko.~n~-Hey.
+PX3_CUT1_34 49C3215C  ~z~Niko - Dwayne Forge. He taught me everything I know.
+PX3_CUT1_35 840715E3  ~z~Not everything.
+PX3_CUT1_36 B6207A15  ~z~So hey, man. Where you staying? D'you need some money? What's the plan?
+PX3_CUT1_37 606A4EAA  ~z~What you mean, what's the plan? Pick up where we left off.
+PX3_CUT1_38 922EB232  ~z~I'm out. I'm back. We keep on rollin'.
+PX3_CUT1_39 ED4C6870  ~z~You say 'we'?
+PX3_CUT1_40 B33BF340  ~z~Yeah 'we'. Unless you too fine?
+PX3_CUT1_41 A56D57A3  ~z~What? Your silk sheet, fancy dress wearing life too big for me now?
+PX3_CUT1_42 4F77ABE5  ~z~Oh, hey, now I ain't saying that.
+PX3_CUT1_43 412A0F4A  ~z~You know what's mine is yours.
+PX3_CUT1_44 2AADE24E  ~z~You need help, just holla.
+PX3_CUT1_45 1A7941E5  ~z~Hell, this Slavic motherfucker any good, he could help you.
+PX3_CUT1_46 84109516  ~z~Now you know I'll do anything I can.
+PX3_CUT1_47 B5FDF8F0  ~z~But right now, we gotta roll.
+PX3_CUT1_48 6FB2EC5B  ~z~Gimme one second.
+PX3_CUT1_49 BFF78CE7  ~z~Ain't folk quick to forget?
+PX3_CUT1_50 4BC36294  ~z~Hmm. Some folk.
+PX3_CUT1_51 27021912  ~z~Yeah... that's the truth.
+PX3_CUT1_52 C077CBFF  ~z~Where did you get out from?
+PX3_CUT1_53 CD99E643  ~z~Preschool.
+PX3_CUT1_54 9296F03A  ~z~Okay... Dwayne, we gotta roll.
+PX3_CUT1_55 70CDACA8  ~z~Please make yourself at home.
+PX3_CUT1_56 071D5949  ~z~Hell. This is your home.
+PX3_CUT1_57 155375B5  ~z~Let's jet, money.
+PX3_CUT1_58 9DA80660  ~z~Motherfucker must think I'm a idiot.

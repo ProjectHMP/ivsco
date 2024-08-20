@@ -1,0 +1,37 @@
+G2_CUT1_1 36DACD12  ~z~-Whoa, whoa, whoa.~n~-Aaah, Niko... good to see you.
+G2_CUT1_2 41A0E29E  ~z~You too. How are you, Mr. Gravelli?
+G2_CUT1_3 CD91FA82  ~z~Good, good.
+G2_CUT1_4 DF6C9E37  ~z~I was just speaking to our mutual friend about you.
+G2_CUT1_5 EA25B3A9  ~z~He said how efficient you were... I like that.
+G2_CUT1_6 FBE7572C  ~z~Then he mentioned something about a Darko Brevic.
+G2_CUT1_7 B7B4CEE8  ~z~What? He did?
+G2_CUT1_8 A57F2A7D  ~z~Yeah... he's located the guy.
+G2_CUT1_9 D42287C3  ~z~It seems he wasn't in Switzerland at all, but in Bucharest.
+G2_CUT1_10 490E62B7  ~z~He'll be here soon.
+G2_CUT1_11 581E00C2  ~z~Good, good...
+G2_CUT1_12 69D9A439  ~z~And it seems your Russian friends are getting the message.
+G2_CUT1_13 849CD9BF  ~z~Some of them...
+G2_CUT1_14 FFD4D045  ~z~Oh... okay. So?
+G2_CUT1_15 121674C8  ~z~I think it's our turn to do a favor for that mutual friend of ours.
+G2_CUT1_16 2DA4ABE4  ~z~Seems some Korean has come into the country and...
+G2_CUT1_17 3F5B4F51  ~z~and is selling money at a discount.
+G2_CUT1_18 BAE1465B  ~z~You don't need me to tell you that it's all fugazi.
+G2_CUT1_19 D5967BC5  ~z~Faker than a pair of Vinewood tits.
+G2_CUT1_20 3F485083  ~z~That's good...
+G2_CUT1_21 31EEB5D0  ~z~Listen, I need you to deal with this.
+G2_CUT1_22 CE00EDF2  ~z~Eliminate the guy.
+G2_CUT1_23 C00ED20E  ~z~What he's doing is no good for the economy,
+G2_CUT1_24 EA62A6B9  ~z~and no good for patriots like you and me.
+G2_CUT1_25 D93F8473  ~z~So who is he?
+G2_CUT1_26 C36C58D1  ~z~His name is Kim Young-Guk.
+G2_CUT1_27 D4B2FB5E  ~z~He'll be very well protected.
+G2_CUT1_28 E20F161A  ~z~He eats at Mr. Fuk.
+G2_CUT1_29 F04AB291  ~z~Fuck.
+G2_CUT1_30 CB4DE094  ~z~Mr. Gravelli, are you alright?
+G2_CUT1_31 C087CB08  ~z~Yeah, yeah, I'm fine...
+G2_CUT1_32 AFBB296F  ~z~wh-wait... what was I saying?
+G2_CUT1_33 A10C8C12  ~z~Kim Young-Guk, he eats at?
+G2_CUT1_34 85A0553E  ~z~Yeah right, right right...
+G2_CUT1_35 785E3ABA  ~z~he... he eats at a restaurant called Mr. Fuk's Rice Box.
+G2_CUT1_36 6A139E25  ~z~Yeah, in Alderney City.
+G2_CUT1_37 BCDD43B7  ~z~Don't worry, I'll take care of it.

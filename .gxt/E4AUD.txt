@@ -1,0 +1,18 @@
+E4_DELIVER_1 F61D2338  ~z~I've got some bodies in here.
+E4_DELIVER_2 F2A31C44  ~z~I've heard you'll take care of them?
+E4_DELIVER_3 1992EA23  ~z~Natural causes?
+E4_DELIVER_4 07DDC6B9  ~z~Of course, seems like a bullet in the head is as natural as it gets in this town.
+E4_DELIVER_5 5D66F1C6  ~z~They weren't sick, were they?
+E4_DELIVER_6 39BEAA76  ~z~No.
+E4_DELIVER_7 00E9B8CD  ~z~Had a few problems with sick bodies.
+E4_DELIVER_8 EF3A956F  ~z~No one wants a liver if it's riddled with tumors, huh?
+E4_DELIVER_9 9291DC1F  ~z~Know what I mean?
+E4_DELIVER_10 BC273A3A  ~z~No.
+E4_DELIVER_11 CD03DBFF  ~z~Shit...
+E4_DELIVER_12 BE063E04  ~z~looks like the bullet went right through this one's eye.
+E4_DELIVER_13 8FDEE1A6  ~z~And the price of eyes is through the roof at the moment.
+E4_DELIVER_14 81904509  ~z~Fine. Can I leave you with these or what?
+E4_DELIVER_15 7129A43C  ~z~Sure. I'll have these organs out on the street in no time.
+E4_DELIVER_16 63D68996  ~z~They're gonna help a lot a folks.
+E4_DELIVER_17 58B37350  ~z~He'd been trying to help the streets his whole life...
+E4_DELIVER_18 476AD0BF  ~z~maybe he'll actually be doing it now.

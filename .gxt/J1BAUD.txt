@@ -1,0 +1,71 @@
+J1_CUT1_1 269D8279  ~z~Yeah?
+J1_CUT1_2 6547FFCD  ~z~I'm here to see Mr. Pegorino...
+J1_CUT1_3 53E15D00  ~z~Well, I didn't think you were here to sell me insurance.
+J1_CUT1_4 00D3B6E2  ~z~So you here to work for him, shoot him, or arrest him? Or maybe all three?
+J1_CUT1_5 EFBA14AF  ~z~Its okay, Mrs. P, I'll deal with this.
+J1_CUT1_6 1E4EF1D8  ~z~Yeah, I'm in a life threatening situation and I'm having a conversation here.
+J1_CUT1_7 BD272F8A  ~z~He could have killed me. You're useless.
+J1_CUT1_8 AB5E8BF9  ~z~Organized crime, my ass.
+J1_CUT1_9 C4E33F06  ~z~With guys like you, no wonder this 'organization' is doing so wonderfully.
+J1_CUT1_10 F9E3550D  ~z~You Nick? Come on.
+J1_CUT1_11 081CF180  ~z~Peg.
+J1_CUT1_12 1D701C26  ~z~What?
+J1_CUT1_13 2BB2B8AB  ~z~Someone for you.
+J1_CUT1_14 17240F8A  ~z~Oh, yeah, yeah, yeah, yeah.
+J1_CUT1_15 24FAAB37  ~z~So... were you followed?
+J1_CUT1_16 49DAF4F7  ~z~I don't think so.
+J1_CUT1_17 57989072  ~z~Oh...
+J1_CUT1_18 683C31B9  ~z~I mean, who knows.
+J1_CUT1_19 7DC65CCD  ~z~Exactly... I mean, we can pretty much guarantee you were followed.
+J1_CUT1_20 052DEF5A  ~z~The question is "did you know about it?".
+J1_CUT1_21 D3390B71  ~z~And right now, I don't know the answer to that question.
+J1_CUT1_22 E0F726ED  ~z~But to be honest, I don't really care neither.
+J1_CUT1_23 2E9E423A  ~z~I know enough about you, your cousin, your friends...
+J1_CUT1_24 3E84E207  ~z~I know a lot of people around you end up in jail.
+J1_CUT1_25 1A349967  ~z~Some maybe.
+J1_CUT1_26 27FEB4FB  ~z~But that's the same all over town. This is a dying game.
+J1_CUT1_27 75A7D04C  ~z~I don't understand.
+J1_CUT1_28 25382F6A  ~z~I mean I'm going to ask you to deal with a problem,
+J1_CUT1_29 732C4B51  ~z~and you're going to deal with it,
+J1_CUT1_30 1A311848  ~z~or you're not going to deal with it, and you're going to be a problem that somebody else has to deal with.
+J1_CUT1_31 2C5FBCA5  ~z~But me? I ain't doing nothing.
+J1_CUT1_32 35F0CFC7  ~z~Yes, okay. So what's the problem?
+J1_CUT1_33 47C9F379  ~z~We'll get to that.
+J1_CUT1_34 518386EC  ~z~Anthony!
+J1_CUT1_35 6345AA70  ~z~Yo!
+J1_CUT1_36 AC90BD0D  ~z~Did Phil call?
+J1_CUT1_37 7E55608F  ~z~Not yet, boss. Ray called.
+J1_CUT1_38 E4DF2DAD  ~z~Of course he did.
+J1_CUT1_39 B61DD02B  ~z~I wonder... is it better to have a talented snake,
+J1_CUT1_40 2340AD93  ~z~or a stoical lion, who's gonna be cut down in his prime?
+J1_CUT1_41 31294964  ~z~I don't know. What do you think?
+J1_CUT1_42 77C6D69E  ~z~I don't understand what you're talking about.
+J1_CUT1_43 857A7205  ~z~You do, but I ain't going to push.
+J1_CUT1_44 702EC76A  ~z~Anthony, get in here!
+J1_CUT1_45 7E6463D5  ~z~Boss?
+J1_CUT1_46 53B20E71  ~z~Where's Big Pete and Marco?
+J1_CUT1_47 61A2AA52  ~z~On their way.
+J1_CUT1_48 A57231F8  ~z~Listen to me... here's what the plan is.
+J1_CUT1_49 C2C26C98  ~z~Me and two of my guys gonna meet with a couple of boys from the Pavano family.
+J1_CUT1_50 D39E0D67  ~z~I need these guys if we're ever gonna be taken serious...
+J1_CUT1_51 E1EFAA0A  ~z~you know, get on the Commission.
+J1_CUT1_52 3722546E  ~z~Now the thing is, these guys ain't, shall we say...
+J1_CUT1_53 45CCF1C3  ~z~shown us the appropriate respect in the past.
+J1_CUT1_54 38895738  ~z~I want you... to run security.
+J1_CUT1_55 46B7F395  ~z~Keep an eye on things, 'cause they won't be looking out for you.
+J1_CUT1_56 1C0E9E43  ~z~Ah, here they are, it's either them or the cops.
+J1_CUT1_57 2A443AAE  ~z~It's them, they're outside. Looks like Ray's here too.
+J1_CUT1_58 6193294B  ~z~I know it's them. God, give me strength...
+J1_CUT1_59 6F5D44DF  ~z~l'll be out in a minute. Look after Ray 'til I get back.
+J1_CUT1_60 A07B2A76  ~z~-Hey, Tone.~n~-Hey, Ray.
+J1_CUT1_61 92B68EED  ~z~I need to speak with Pegorino.
+J1_CUT1_62 59CC9D16  ~z~Hey, what, what ya doing? He's busy.
+J1_CUT1_63 C4087190  ~z~Hey, Niko, huh.
+J1_CUT1_64 6F3947EF  ~z~Oh, boss - salve.
+J1_CUT1_65 692D3BD7  ~z~Get up.
+J1_CUT1_66 12DD0F38  ~z~I'm sorry, boss.
+J1_CUT1_67 7C98E2AE  ~z~This guy's everywhere, like a friggin' cockroach or something, ha?
+J1_CUT1_68 19F71D68  ~z~In a good way.
+J1_CUT1_69 8360F03A  ~z~Ray, you and me is gonna talk. The boss has got business.
+J1_CUT1_70 703BC878  ~z~Yeah, uh boss, I got you this, because I care.
+J1_CUT1_71 827A6CF5  ~z~You boys have fun.

@@ -1,0 +1,36 @@
+DF1_CUT1_1 EFE038D7  ~z~Oh, it's you. You alone?
+DF1_CUT1_2 7183BC18  ~z~Yeah. How you doing?
+DF1_CUT1_3 5FCA18A5  ~z~Fucking great. What you think?
+DF1_CUT1_4 CE2DF573  ~z~Yeah... it's hard living with the past. Eh?
+DF1_CUT1_5 BC6B51EE  ~z~Yeah. Especially when the present has turned into an asshole.
+DF1_CUT1_6 2B322F76  ~z~Fucking bitch... nobody wants to roll with me no more.
+DF1_CUT1_7 15E404DA  ~z~It's like I'm tainted.
+DF1_CUT1_8 8686661D  ~z~What do you mean?
+DF1_CUT1_9 756FC3F0  ~z~Playboy don't wanna hang no more.
+DF1_CUT1_10 1B4DAE7C  ~z~He pays for you to come over instead.
+DF1_CUT1_11 09890AF3  ~z~My girlfriend, the love of my fucking life...
+DF1_CUT1_12 7799E717  ~z~man, I was pulling moves in the joint so this bitch could pay the rent.
+DF1_CUT1_13 65B84354  ~z~Now, she won't answer the phone.
+DF1_CUT1_14 54D6A191  ~z~Man, I gave her everything when I was inside.
+DF1_CUT1_15 C2477C71  ~z~Cars, houses, apartments, bank accounts. Everything.
+DF1_CUT1_16 B16CDABC  ~z~I heard she hanging with Jayvon now.
+DF1_CUT1_17 9EC5B56E  ~z~Who?
+DF1_CUT1_18 8DE013A3  ~z~Some punk who fucking talked.
+DF1_CUT1_19 FB40EE67  ~z~He swears he wasn't involved in me going down, but I knew.
+DF1_CUT1_20 37E8592D  ~z~I knew his ass was lying.
+DF1_CUT1_21 2A3DBDD8  ~z~Now motherfucker's fucking my girl?
+DF1_CUT1_22 A5E9B516  ~z~For real? Shit is fucked up, man.
+DF1_CUT1_23 030B6F74  ~z~Sometimes I just wanna end this shit.
+DF1_CUT1_24 EC5E421A  ~z~Just... bam.
+DF1_CUT1_25 DEA8A6AF  ~z~But I ain't there yet.
+DF1_CUT1_26 5EFA2738  ~z~Not quite.
+DF1_CUT1_27 57B918B6  ~z~Listen, why don't you go talk to her?
+DF1_CUT1_28 CA577DF1  ~z~Ain't shit to say.
+DF1_CUT1_29 B41D517D  ~z~Then I'll go speak to both of them.
+DF1_CUT1_30 A1472AB1  ~z~I'll ask for your money back... and if they don't agree, I'll make them.
+DF1_CUT1_31 8E8C053B  ~z~Where do they hang out?
+DF1_CUT1_32 FC00603E  ~z~At some arcade in Chinatown.
+DF1_CUT1_33 EAC03DBE  ~z~Uh, look, man, don't bother.
+DF1_CUT1_34 66113446  ~z~No. I'll bother. I'm getting paid.
+DF1_CUT1_35 545090C5  ~z~And besides... you remind me of me.
+DF1_CUT1_36 C596F350  ~z~Uh huh.

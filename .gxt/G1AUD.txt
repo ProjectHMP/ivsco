@@ -1,0 +1,52 @@
+G1_CUT1_1 A5FED139  ~z~I'm here to see Mr. Gravelli. I was sent by a mutual friend.
+G1_CUT1_2 9C0FBD5B  ~z~C'mon.
+G1_CUT1_3 89C518C6  ~z~Uh, someone here to see you.
+G1_CUT1_4 618D4857  ~z~Here.
+G1_CUT1_5 115AA7F3  ~z~So you're the one who's getting involved with that nonsense for my...
+G1_CUT1_6 5694B266  ~z~dear friend James Pegorino.
+G1_CUT1_7 74C3EEC4  ~z~-I don't know what the...~n~-Spare me, please,
+G1_CUT1_8 C0378572  ~z~I'm an old man.
+G1_CUT1_9 EDCA6097  ~z~I ain't got much time left.
+G1_CUT1_10 F68C62B6  ~z~Our mutual friend told me everything.
+G1_CUT1_11 8FE31561  ~z~thank you. It made me laugh...
+G1_CUT1_12 99EB2971  ~z~My pleasure.
+G1_CUT1_13 B3F5DD86  ~z~People are so damn vain.
+G1_CUT1_14 BD46F028  ~z~Some people.
+G1_CUT1_15 7783E4A3  ~z~All people. Even you, even me, an old man facing the end...
+G1_CUT1_16 491207C0  ~z~and I still care, care how I look,
+G1_CUT1_17 7A4A6A34  ~z~care that when I shit myself, the pretty nurse has to clean it up...
+G1_CUT1_18 4C998ED3  ~z~it's ridiculous.
+G1_CUT1_19 1DF0317D  ~z~Yeah, well uh... you know...
+G1_CUT1_20 1201943C  ~z~And I care about my legacy.
+G1_CUT1_21 DD1B2A70  ~z~I've worked hard for this, this line of work.
+G1_CUT1_22 EFDDCFF5  ~z~Now, some Russian assholes think they can march in
+G1_CUT1_23 B6C0DDB8  ~z~and take control of rackets my family has run for fifty years.
+G1_CUT1_24 CB4806CA  ~z~You mean fifty years of you bleeding the city dry might finally come to an end?
+G1_CUT1_25 925614E3  ~z~I know, it's a terrible tragedy.
+G1_CUT1_26 A49C396F  ~z~But if it wasn't me, it would just be someone else.
+G1_CUT1_27 8F918F5E  ~z~So it might as well be me.
+G1_CUT1_28 A042B0C0  ~z~Yes.
+G1_CUT1_29 6AECC615  ~z~Let me tell you - that faggot friend of yours, Bernie Crane?
+G1_CUT1_30 6EDBCC93  ~z~His boyfriend...
+G1_CUT1_31 391B610F  ~z~he's being blackmailed.
+G1_CUT1_32 4B560588  ~z~By them damn Russians.
+G1_CUT1_33 B7EFDEBA  ~z~They want him to put certain contracts up for tender,
+G1_CUT1_34 B923E122  ~z~windows, bus lines, cleaning. Ones we control.
+G1_CUT1_35 947517C5  ~z~These Russian fucking bastards are trying to finish us.
+G1_CUT1_36 A5B03A3B  ~z~What do you want me to do about it?
+G1_CUT1_37 E244B363  ~z~I want you to work with me.
+G1_CUT1_38 F44F5778  ~z~In exchange for what?
+G1_CUT1_39 AB6A45B3  ~z~The police have a file on you an inch thick... in exchange for that...
+G1_CUT1_40 D75DA9E1  ~z~in exchange for that guy you've been asking about
+G1_CUT1_41 24774413  ~z~being brought here from wherever it is he's hiding,
+G1_CUT1_42 32C4E0AE  ~z~Switzerland or some shit.
+G1_CUT1_43 12129F4A  ~z~Okay. Good. What do you want me to do?
+G1_CUT1_44 20593BD7  ~z~A good friend of mine is coming into town to give a speech
+G1_CUT1_45 6E34D78D  ~z~on the new threat to Liberty City -
+G1_CUT1_46 7B6E7200  ~z~Russian organized crime.
+G1_CUT1_47 88A28C84  ~z~I got a feeling some people ain't gonna want that speech to happen.
+G1_CUT1_48 96652809  ~z~Maybe the guy you love, this Dimitri Rascalov, has an interest in keeping this story out the press.
+G1_CUT1_49 E506C54B  ~z~Make sure our boy gets to City Hall.
+G1_CUT1_50 7250DEBD  ~z~He's coming in from upstate.
+G1_CUT1_51 7FD279C0  ~z~He'll be at Grand Easton Terminal on Bismarck.
+G1_CUT1_52 4D131442  ~z~Thank you.

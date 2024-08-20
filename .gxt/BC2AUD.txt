@@ -1,0 +1,9 @@
+BC2_BMAIL_1 F78C8582  ~z~Where's Bryce? We wanted to speak to him, not his rent boys.
+BC2_BMAIL_2 BD50910B  ~z~Listen, you're going to speak to your boss and tell him to back off.
+BC2_BMAIL_3 334B7CFF  ~z~If that's the way you want to play it, fine.
+BC2_BMAIL_4 D8DA481E  ~z~Bryce'll be all over Weazel News tomorrow morning.
+BC2_BMAIL_5 D08F3788  ~z~You know what? Maybe the best way to get the message to your boss is for me to send him your heart.
+BC2_BMAIL_6 76530315  ~z~Yeah, tough guy. How'd you like that?
+BC2_BMAIL_7 EC33EED1  ~z~Dimitri Rascalov only asks once.
+BC2_BMAIL_8 B1CEFA0C  ~z~Your lover's career is over.
+BC2_BMAIL_9 A1915991  ~z~Fucking Dimitri.

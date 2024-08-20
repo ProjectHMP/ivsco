@@ -1,0 +1,36 @@
+J2_CUT1_1 659CF5AF  ~z~Hey.
+J2_CUT1_2 C110AC6D  ~z~Uh... who you waving at?
+J2_CUT1_3 AEE30812  ~z~Feds, I think... they always drive past at this time.
+J2_CUT1_4 1DADE5A6  ~z~Does that worry you?
+J2_CUT1_5 0B5940FD  ~z~When you marry a dragon, you gotta expect a few knights are gonna turn up to try to slay him.
+J2_CUT1_6 89F93E3B  ~z~Jackasses, all of them, all of you.
+J2_CUT1_7 799D9D84  ~z~-Nice talking with you.~n~-Whatever.
+J2_CUT1_8 E6827750  ~z~You have fun. Pick a swell guy to kill - hopefully someone with a young family who'll really miss him...
+J2_CUT2_1 7DA7D976  ~z~Hey.
+J2_CUT2_2 1E4C9AB5  ~z~Hey!
+J2_CUT2_3 2C8EB739  ~z~Is Mr. Pegorino around?
+J2_CUT2_4 38F35002  ~z~Uh, uh... sure, I'll get him.
+J2_CUT2_5 48B06F7C  ~z~Boss!
+J2_CUT2_6 C8A8EF77  ~z~Anthony - will you shut up? In fact, will you fuck off?
+J2_CUT2_7 D6E68BF2  ~z~Go on, get outta here.
+J2_CUT2_8 E3F9A618  ~z~Don't come back 'til you get a brain implant, or something.
+J2_CUT2_9 F24442AD  ~z~I'm sorry... I... I'm so...
+J2_CUT2_10 396DC996  ~z~Nice to see you, Niko.
+J2_CUT2_11 E09C17F4  ~z~You too.
+J2_CUT2_12 EDBDB237  ~z~I got a couple of things I want to talk to you about.
+J2_CUT2_13 046BDF93  ~z~First up - can you kill this shithead?
+J2_CUT2_14 13187CEC  ~z~Sure.
+J2_CUT2_15 A0E01879  ~z~Second... come in here.
+J2_CUT2_16 A6B42421  ~z~Ahh, fuck.
+J2_CUT2_17 94F3808C  ~z~So, listen... we gotta bit of a problem with the Pavanos.
+J2_CUT2_18 AC46AF32  ~z~Yes, I noticed that at your meeting with them.
+J2_CUT2_19 BA994BD7  ~z~The way they look at us, we're bottom feeders! Always have been.
+J2_CUT2_20 BBC36A23  ~z~We ain't a real family to them - just a bunch of Guernsey goombas.
+J2_CUT2_21 CA7A8795  ~z~When things are cool, we're getting fucked.
+J2_CUT2_22 D72420E8  ~z~I'm sorry to hear that.
+J2_CUT2_23 EEF5508A  ~z~Ahh, sure.
+J2_CUT2_24 06437F26  ~z~Listen, some of their boys are in town today, gonna collect their piece of an Alderney bookie ring.
+J2_CUT2_25 3C886BAF  ~z~Word is they're at the Diner in Acter. Find 'em, and follow them to the meet.
+J2_CUT2_26 21D7364D  ~z~You disrupt it, and I'll let you keep the money, but make sure you hit the Pavanos real hard! Capiche?
+J2_CUT2_27 EB4CC92D  ~z~Yeah, capiche.
+J2_CUT2_28 D0DD944F  ~z~Thank you...

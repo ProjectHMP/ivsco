@@ -1,0 +1,17 @@
+PIV_CUT1_1 3C71CCA9  ~z~Niko, isn't it?
+PIV_CUT1_2 6C02ABCA  ~z~Yes... who are you?
+PIV_CUT1_3 59C08746  ~z~Ivan... you don't remember me?
+PIV_CUT1_4 64529C9E  ~z~You nearly killed me, motherfucker... good to see you.
+PIV_CUT1_5 9291791B  ~z~-Yes...~n~-Shit,
+PIV_CUT1_6 8317DA28  ~z~-I owe you my fucking life... fantastic!~n~-Hey...
+PIV_CUT1_7 AEB8316C  ~z~I'm doin' great, man, life has been good.
+PIV_CUT1_8 9D420E80  ~z~I'm living here now, doing very well.
+PIV_CUT1_9 CB0CEA15  ~z~Engaged, happy, business is good.
+PIV_CUT1_10 CF4A6791  ~z~I love this fucking country, man!
+PIV_CUT1_11 C0904A1D  ~z~What about you?
+PIV_CUT1_12 B086AA0A  ~z~I'm not engaged, a lot of people want me dead.
+PIV_CUT1_13 A2C50E87  ~z~Apart from that, the same as you. What business?
+PIV_CUT1_14 0461D1C3  ~z~I lend people money.
+PIV_CUT1_15 F5A33446  ~z~But all very friendly! Listen, do you want to come along?
+PIV_CUT1_16 40C7CA82  ~z~I've got to see someone just around the corner. Come with me.
+PIV_CUT1_17 328A2E07  ~z~C'mon.

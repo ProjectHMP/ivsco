@@ -1,0 +1,23 @@
+PIC_CUT1_1 833A88C1  ~z~Niko!
+PIC_CUT1_2 DB61B90E  ~z~Niko!
+PIC_CUT1_3 ADBCDDC5  ~z~Hey... uh, do I know you?
+PIC_CUT1_4 E2BA47BF  ~z~Yeah, you know me... Cherise?
+PIC_CUT1_5 CBE21A0F  ~z~I used to go out with Dwayne. You... you know, you...
+PIC_CUT1_6 DEEF402D  ~z~I spared you?
+PIC_CUT1_7 F153E4F6  ~z~Yeah.
+PIC_CUT1_8 038A0962  ~z~Why did you stop me? What do you want?
+PIC_CUT1_9 15A7AD9D  ~z~Well I just wanted to say thank you, you know, for your kindness.
+PIC_CUT1_10 F11539D2  ~z~Huh, I'm not always kind.
+PIC_CUT1_11 E2709C89  ~z~Don't worry about it. What are you up to?
+PIC_CUT1_12 539AFEDC  ~z~Well, after... after what happened, you know, I just wanted to change my life, turn things around.
+PIC_CUT1_13 3EFDD5A2  ~z~You know, no more gang bangers and drug dealers. Turn over a new leaf, you know?
+PIC_CUT1_14 C01357CB  ~z~Good for you.
+PIC_CUT1_15 A9772A93  ~z~Yeah, and things was... they were going pretty well, but...
+PIC_CUT1_16 9A948CCE  ~z~I like danger. The only thing is... danger don't like me!
+PIC_CUT1_17 05D86358  ~z~Hey, hey... What's wrong?
+PIC_CUT1_18 22DF9D7E  ~z~Nothing. It's my own stupid fault. I deserve to be hit.
+PIC_CUT1_19 8D7972AC  ~z~Who's hitting you?
+PIC_CUT1_20 4D396E8D  ~z~My boyfriend.
+PIC_CUT1_21 38734501  ~z~Please don't do anything!
+PIC_CUT1_22 2EAAB170  ~z~I'm not going to kill him.
+PIC_CUT1_23 1CF18DFE  ~z~I'm just going to teach him not to hit women.

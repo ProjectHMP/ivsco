@@ -1,0 +1,25 @@
+C2_CUT1_1 B3290959  ~z~Come in, Niko.
+C2_CUT1_2 E56AEDDC  ~z~Hi.
+C2_CUT1_3 64336B67  ~z~So... you fought in the war...
+C2_CUT1_4 5674CFEA  ~z~You know a lot.
+C2_CUT1_5 76971036  ~z~Yes. You're looking for some people.
+C2_CUT1_6 A8CDF4A3  ~z~We're all looking for that special someone.
+C2_CUT1_7 2CF3FCE9  ~z~But most of us don't want to kill them when we find them.
+C2_CUT1_8 0F0AC117  ~z~Most murders are committed by people you know.
+C2_CUT1_9 4171A5E4  ~z~Most wives are killed by their husbands.
+C2_CUT1_10 D9B4A3CB  ~z~Yes. And my wife had better stop sleeping with that tennis coach, or...
+C2_CUT1_11 EEF5CE4D  ~z~I'm joking.
+C2_CUT1_12 9024106F  ~z~I am sure your wife doesn't need to sleep around.
+C2_CUT1_13 7E6BECFF  ~z~Oh, I'm joking... I'm sure she does.
+C2_CUT1_14 B534DA90  ~z~Funny. I'm divorced. My wife can sleep with whoever she wants.
+C2_CUT1_15 A277B516  ~z~Interesting...
+C2_CUT1_16 DB49A6BD  ~z~I'm not divorced. I was never married. No details.
+C2_CUT1_17 C62D7C81  ~z~I need you to go find someone for me.
+C2_CUT1_18 FF086E3A  ~z~I'll be getting a picture through shortly. This is important.
+C2_CUT1_19 ED2DCA85  ~z~So why use me?
+C2_CUT1_20 725955FE  ~z~We always use people like you. Karen - Michelle... she was the same.
+C2_CUT1_21 4E900E6C  ~z~Someone with something to lose, but not much to live for.
+C2_CUT1_22 95C51CD5  ~z~What's in it for me?
+C2_CUT1_23 8012F171  ~z~Two things. One, you don't get a hundred murders pinned on you.
+C2_CUT1_24 D7009F73  ~z~Two... maybe I will help you. And maybe I won't.
+C2_CUT1_25 BFE47117  ~z~Now get access to a police computer and wait for my message. Go!

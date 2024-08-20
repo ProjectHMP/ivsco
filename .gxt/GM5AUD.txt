@@ -1,0 +1,21 @@
+GM5_SWAP_1 8EF2EE71  ~z~Gracie, you alright?
+GM5_SWAP_2 7CCB4A22  ~z~The bastards didn't hurt you, did they?
+GM5_SWAP_3 6C7DA987  ~z~She can't speak. We got a gag in her mouth.
+GM5_SWAP_4 523F7507  ~z~Give her back, you animals. She's suffered enough.
+GM5_SWAP_5 4010D0AA  ~z~Hand over the stuff.
+GM5_SWAP_6 37B7BFF8  ~z~Hand over Gracie!
+GM5_SWAP_7 4093D1DC  ~z~-I'm here for you, sweetie.~n~-Hand over the fucking stuff!
+GM5_SWAP_8 30BB322B  ~z~Alright, calm down. Both of you.
+GM5_SWAP_9 27091EC7  ~z~We put the ice in the middle, we walk back.
+GM5_SWAP_10 D16E6E1E  ~z~Then you send over the girl.
+GM5_SWAP_11 9B3C01BA  ~z~We leave and you pick up the stuff. Entiende?
+GM5_SWAP_12 653415B7  ~z~Sure, show us the goods.
+GM5_SWAP_13 BED1C8E5  ~z~Come back to me, honey.
+GM5_SWAP_14 68809C44  ~z~Let her go.
+GM5_SWAP_15 75F2B728  ~z~Niko Bellic, how is it that whenever something is stolen from me you are not far away?
+GM5_SWAP_16 87E7DB12  ~z~I have never stolen anything from you, Mr. Bulgarin.
+GM5_SWAP_17 99A67E8F  ~z~These men, the big ~c~faggot~s~
+GM5_SWAP_18 1B9B827B  ~z~and his Dominican bitch, they stole my diamonds.
+GM5_SWAP_19 2D4125C6  ~z~And you have been trying to rob the thieves.
+GM5_SWAP_20 B9AC3D86  ~z~To rob me. ~c~Kill them all!~s~
+GM5_SWAP_21 079A5961  ~z~I don't care what you did to that man, but we ain't leaving here without them diamonds.

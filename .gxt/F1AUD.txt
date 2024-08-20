@@ -1,0 +1,67 @@
+F1_CUT2_1 51341CDD  ~z~Wake up.
+F1_CUT2_2 EEFBD86E  ~z~We had to gag him, to stop the screaming.
+F1_CUT2_3 8552051C  ~z~You shouldn't have brought them here, Andrei.
+F1_CUT2_4 B37BE16F  ~z~Why not?
+F1_CUT2_5 A3C54202  ~z~You've been a bad boy, Mr. Balkan...
+F1_CUT2_6 2AA14FB8  ~z~and the boss is not happy.
+F1_CUT2_7 D85B2B2D  ~z~Oh no! I shit my pants!
+F1_CUT2_8 CD13149D  ~z~Not yet, but you will.
+F1_CUT2_9 FAC8F008  ~z~Who are you working for?
+F1_CUT2_10 9416D2AF  ~z~Errr, my cousin, Roman.
+F1_CUT2_11 51484D17  ~z~Don't be an idiot.
+F1_CUT2_12 5F81E98A  ~z~That's not good enough. I'm going to saw off your fucking arm. Speak!
+F1_CUT2_13 EB6C0160  ~z~Okay, okay, your dad likes it up the ass...
+F1_CUT2_14 01322CEC  ~z~what do you want me to say, huh?
+F1_CUT2_15 16D8D839  ~z~Very funny... do you think you're so smart?
+F1_CUT2_16 28967BB4  ~z~No. I'm tied up in a basement a long way from home, while some ape threatens me with a hacksaw,
+F1_CUT2_17 BB15A0B0  ~z~so no, I'm not that smart.
+F1_CUT2_18 ACDC043D  ~z~Shut the fuck up.
+F1_CUT2_19 EA727F69  ~z~My fucking wife is watching television.
+F1_CUT2_20 03A6BBD5  ~z~Good Lord... what are you doing?
+F1_CUT2_21 5554DF30  ~z~Nothing... I mean...
+F1_CUT2_22 6529FEDA  ~z~I was finding out who he is...
+F1_CUT2_23 312B96DE  ~z~And? Who is he?
+F1_CUT2_24 8BD24C9E  ~z~He is... his cousin.
+F1_CUT2_25 998CE813  ~z~You were about to cut up some guy in my house, making all that noise, to find out he is his cousin?
+F1_CUT2_26 6B230B40  ~z~Where did you find this idiot?
+F1_CUT2_27 7729234C  ~z~He was a friend of your sergeant, when we were in Vladivostok.
+F1_CUT2_28 D4D7DEA8  ~z~He's an imbecile.
+F1_CUT2_29 E2967A25  ~z~So, Niko Bellic.
+F1_CUT2_30 614C73F7  ~z~You think it's okay to kill my employees?
+F1_CUT2_31 76AD9EAD  ~z~If he is an asshole, yes.
+F1_CUT2_32 84773A40  ~z~I agree.
+F1_CUT2_33 89E14514  ~z~Mikhail!
+F1_CUT2_34 9EB36EB8  ~z~Asshole look at me like I am piece of shit.
+F1_CUT2_35 ADC50CDB  ~z~~c~Oh my God.~s~
+F1_CUT2_36 BB92A876  ~z~Now listen... Niko Bellic.
+F1_CUT2_37 E0EAF326  ~z~You are very lucky Vlad was an idiot.
+F1_CUT2_38 F5CF1CF2  ~z~The only reason I keep him around is because I fuck his sister.
+F1_CUT2_39 047EBA51  ~z~Look at me.
+F1_CUT2_40 D82062FD  ~z~You owe me.
+F1_CUT2_41 C8F1C4A0  ~z~I got some dickheads in my neighborhood trying to run a shipment, yeah?
+F1_CUT2_42 039A39F4  ~z~And we've found a buyer for the TVs.
+F1_CUT2_43 EEA41008  ~z~Yes, a buyer,
+F1_CUT2_44 20F5F4AB  ~z~but you've got to get them for us so we can make the sale.
+F1_CUT2_45 125B5776  ~z~Can you untie Roman?
+F1_CUT2_46 2C838BC6  ~z~~c~Yes.~s~
+F1_CUT2_47 248C7B60  ~z~-Help! Help me!~n~-Shut up Roman.
+F1_CUT2_48 133DD8C3  ~z~Shut up!
+F1_CUT2_49 28650311  ~z~-Help me! Help!~n~-Roman shut up.
+F1_CUT2_50 154AE2C1  ~z~Shut him up!
+F1_CUT2_51 A86508F7  ~z~-What do you want me to do?~n~-Shut up Roman!
+F1_CUT2_52 BA1EAC6A  ~z~-Shut the fuck up!~n~-He's just screaming that's it!
+F1_CUT2_53 CDDED3EA  ~z~-Roman, shut up!~n~-I can't make him shut up!
+F1_CUT2_54 DF957757  ~z~Fuck!
+F1_CUT2_55 71299A81  ~z~-Mikhail!~n~-Shut up!
+F1_CUT2_56 82F73E1C  ~z~Stop shooting people, you maniac!
+F1_CUT2_57 8DA45376  ~z~My wife don't like when people shout!
+F1_CUT2_58 9FB6F79B  ~z~Whatever!
+F1_CUT2_59 31071A3D  ~z~You better get those screens soon.
+F1_CUT2_60 E28CF476  ~z~Or I will personally pull your cousin's stitches out, one by one,
+F1_CUT2_61 FCCA28F4  ~z~and watch his guts spill onto the floor.
+F1_CUT2_62 0EFBCD57  ~z~Clean this shit up.
+F1_CUT2_63 1935E1CB  ~z~Listen, we'll take care of your cousin, but you better get a police car,
+F1_CUT2_64 298E827C  ~z~and then you call me.
+F1_CUT2_65 3B912681  ~z~Roman. Roman!
+F1_CUT2_66 51C452E7  ~z~Go, go, go. I... I'll take care of him.
+F1_CUT2_67 6375F64A  ~z~Fuck!

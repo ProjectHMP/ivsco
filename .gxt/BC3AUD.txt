@@ -1,0 +1,41 @@
+BC3_CUT1_1 DB8D5AF0  ~z~Yoohoo!
+BC3_CUT1_2 09C0B756  ~z~Bernie, what's wrong?
+BC3_CUT1_3 C00BA3ED  ~z~Nothing sweetie.
+BC3_CUT1_4 EC71FCB9  ~z~Oh, my God. You were the lucky one.
+BC3_CUT1_5 12B8C946  ~z~What?
+BC3_CUT1_6 412A2640  ~z~You could slice cheese on those puppies.
+BC3_CUT1_7 F945165F  ~z~I must be the only Slav without cheekbones.
+BC3_CUT1_8 25116DF7  ~z~I'm thinking of getting implants.
+BC3_CUT1_9 88AD3545  ~z~But you sounded hysterical.
+BC3_CUT1_10 D428F940  ~z~Oh, sometimes, I can't bear to be alone.
+BC3_CUT1_11 E1DC14A2  ~z~I'm so glad you've come back into my life,
+BC3_CUT1_12 EFA2B02F  ~z~even if you did try to kill me.
+BC3_CUT1_13 0D3AEB5F  ~z~I'm so excited!
+BC3_CUT1_14 8D236B36  ~z~What are we doing here?
+BC3_CUT1_15 997B03E5  ~z~We're going to have fun!
+BC3_CUT1_16 A7C4A078  ~z~Fun?
+BC3_CUT1_17 C606DCFC  ~z~Yes.
+BC3_CUT1_18 E4AE1A7E  ~z~It's a four letter word, I know, but we can still try.
+BC3_CUT1_19 D312F74C  ~z~Look! More people want me dead than alive.
+BC3_CUT1_20 561D7E87  ~z~I'm working for the Mafia.
+BC3_CUT1_21 205B1303  ~z~The police and a government agency are both on my case.
+BC3_CUT1_22 32A7B79C  ~z~I kill and steal to scrape together a living
+BC3_CUT1_23 FADE480A  ~z~so that my cousin can fritter it away online and pay off debts...
+BC3_CUT1_24 7B22C895  ~z~and all the while?
+BC3_CUT1_25 8D646D18  ~z~People are trying to kill us!
+BC3_CUT1_26 579F018E  ~z~What is fun?
+BC3_CUT1_27 43F7DA3C  ~z~Honey...
+BC3_CUT1_28 C44E5AEB  ~z~you...
+BC3_CUT1_29 D603FE56  ~z~are stressed.
+BC3_CUT1_30 5EF08CC9  ~z~Goodbye, Florian.
+BC3_CUT1_31 70472F76  ~z~No! No! No! No! No you don't, Niko. I need you.
+BC3_CUT1_32 937675D4  ~z~I need you to come on this boat trip with me.
+BC3_CUT1_33 A4979816  ~z~I need to talk to someone who truly knows me.
+BC3_CUT1_34 25FD1ADF  ~z~When I knew you you were training to be a shepherd.
+BC3_CUT1_35 375DBDA0  ~z~And you wanted to be a professional wrestler.
+BC3_CUT1_36 3A70C3C6  ~z~Actually, maybe it does all makes sense.
+BC3_CUT1_37 4B486575  ~z~You understand me. Both of me!
+BC3_CUT1_38 E5269933  ~z~Come on. Bryce accidentally left the keys on purpose somewhere I could steal them.
+BC3_CUT1_39 F7EB3EBC  ~z~You drive, I'll work on my tan. My midriff is really pale.
+BC3_CUT1_40 CEE46DD7  ~z~Alright, lets have...
+BC3_CUT1_41 BB26465B  ~z~fun.

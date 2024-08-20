@@ -1,0 +1,41 @@
+BC1_CUT1_1 583B6EE7  ~z~Florian, open the door.
+BC1_CUT1_2 47CE4E0D  ~z~~c~Don't be a fag.~s~
+BC1_CUT1_3 E3D5861D  ~z~~c~Speak English.~s~ And I told you, it's Bernie.
+BC1_CUT1_4 D373E55A  ~z~Then Bernie, open the door.
+BC1_CUT1_5 19B7F1E1  ~z~What's going on?
+BC1_CUT1_6 0F04DC7B  ~z~Come in, come in.
+BC1_CUT1_7 8ACDD413  ~z~The haters are trying to kill me... I can't stand it.
+BC1_CUT1_8 791630A4  ~z~I won't stand it... it's not fair. I'm just being me!
+BC1_CUT1_9 A8618F3A  ~z~Bernie! What are you talking about?
+BC1_CUT1_10 CBB87D90  ~z~I came to this country to be myself...
+BC1_CUT1_11 9E202260  ~z~to get away from small minded, angry macho pricks...
+BC1_CUT1_12 6841369B  ~z~Oh, like me?
+BC1_CUT1_13 5A741B01  ~z~Yes! Well, no.
+BC1_CUT1_14 86767305  ~z~Well you know what I mean.
+BC1_CUT1_15 78D0D7BA  ~z~It was hardly the most progressive place. How does my hair look?
+BC1_CUT1_16 1F09A42D  ~z~Fine.
+BC1_CUT1_17 113A888F  ~z~I put a rinse in.
+BC1_CUT1_18 39EF59FC  ~z~Tawdry Night.
+BC1_CUT1_19 2C3EBE9B  ~z~Nice.
+BC1_CUT1_20 5BEFA120  ~z~Bryce found some gray hairs.
+BC1_CUT1_21 2621B585  ~z~If he leaves me, I'll kill myself.
+BC1_CUT1_22 16631608  ~z~Forget about your hair, Florian.
+BC1_CUT1_23 4EDE0701  ~z~-Bernie!~n~-I mean Bernie.
+BC1_CUT1_24 C937FBB7  ~z~What's the problem?
+BC1_CUT1_25 71DCCCFE  ~z~Someone is threatening to kill me.
+BC1_CUT1_26 5C1AA17A  ~z~Every time I go out jogging, and doing aerobics or playing ultimate disc,
+BC1_CUT1_27 FFE0E908  ~z~some guy comes up and threatens me.
+BC1_CUT1_28 F21F4D85  ~z~He's loco!
+BC1_CUT1_29 BA6C5E20  ~z~Why is he threatening you?
+BC1_CUT1_30 80FA6EC9  ~z~Because...
+BC1_CUT1_31 849D7613  ~z~I think just because I'm fabulous.
+BC1_CUT1_32 775FDB98  ~z~What?
+BC1_CUT1_33 99A9202E  ~z~I keep thinking I'm being followed, and I don't know why.
+BC1_CUT1_34 8BDA8491  ~z~I'm a prisoner in my own home.
+BC1_CUT1_35 BBDC6494  ~z~Okay, Bernie, let's go out and have a look.
+BC1_CUT1_36 AE19490E  ~z~Ooo! I am so glad you've come back into my life.
+BC1_CUT1_37 E0602D9B  ~z~That's cool. But listen...
+BC1_CUT1_38 030872EB  ~z~you and I don't know each other.
+BC1_CUT1_39 32425156  ~z~How can you say that? I thought you were different!
+BC1_CUT1_40 DAB113C1  ~z~Because we want this guy to attack you. Come on.
+BC1_CUT1_41 0102E064  ~z~Oh!

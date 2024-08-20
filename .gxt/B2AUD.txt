@@ -1,0 +1,35 @@
+B2_CUT1_1 226D9B5D  ~z~Hey Tommy, check this out...
+B2_CUT1_2 2855A72D  ~z~-seven horse, seven race, Joe Shmoe.~n~-Hey Phil.
+B2_CUT1_3 16710370  ~z~What?
+B2_CUT1_4 2AC82C1E  ~z~Hey, pal... what's going on?
+B2_CUT1_5 398EC9AB  ~z~Not too much. How are you?
+B2_CUT1_6 DFBE15FF  ~z~I'm good. Wanna walk and talk?
+B2_CUT1_7 EFEFB662  ~z~Sure.
+B2_CUT1_8 FE2152C5  ~z~Tommy, gimme a call if my big buddy calls.
+B2_CUT1_9 145B7F39  ~z~Tell him I went out to get some fresh air.
+B2_CUT1_10 3472B1DE  ~z~No problem.
+B2_CUT1_11 26151523  ~z~Ridiculous.
+B2_CUT1_12 D2166D27  ~z~I'm a grown man walking around like a chump.
+B2_CUT1_13 C2DFCEBA  ~z~I'm sorry about this.
+B2_CUT1_14 6BD6A0A9  ~z~Hey, no problem.
+B2_CUT1_15 5F140724  ~z~So you're a friend of Ray's?
+B2_CUT1_16 A00388EE  ~z~A friend?
+B2_CUT1_17 1250ED9B  ~z~No. I do some work for him.
+B2_CUT1_18 BC554191  ~z~No, I mean a friend.
+B2_CUT1_19 AE16A514  ~z~I don't understand. Whatever you say.
+B2_CUT1_20 695A9F05  ~z~He's a slimeball, but he pays.
+B2_CUT1_21 9323F297  ~z~Sure, pal, sure. Listen to me...
+B2_CUT1_22 F71ABA77  ~z~the thing about Ray is he's a good earner.
+B2_CUT1_23 E9431EC8  ~z~He talks a lot of shit, but he's a good earner, capiche?
+B2_CUT1_24 A0B20DB3  ~z~He's a rat,
+B2_CUT1_25 CA2D60A9  ~z~doing an impression of a man.
+B2_CUT1_26 139A7382  ~z~That's pretty good.
+B2_CUT1_27 058FD76D  ~z~Phil! Phil!
+B2_CUT1_28 F745BAD9  ~z~What, what, what do ya want?
+B2_CUT1_29 E9121E72  ~z~It's the boss... said you gotta head down the docks... emergency... said you'd understand.
+B2_CUT1_30 460D0C76  ~z~Ah shit, it's three days early, Madonna mia, what am I gonna do?
+B2_CUT1_31 30A2E1A2  ~z~What's the problem?
+B2_CUT1_32 D4132884  ~z~Niko...
+B2_CUT1_33 C5E58C29  ~z~I'm gonna have to take a chance with you, pal.
+B2_CUT1_34 F9CFF3FD  ~z~Okay...
+B2_CUT1_35 EB595710  ~z~C'mon, let's go.

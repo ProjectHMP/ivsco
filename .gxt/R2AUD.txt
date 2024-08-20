@@ -1,0 +1,41 @@
+R2_CUT1_1 CB7163A4  ~z~Come on, big guy - either do some work or get out of here. We don't need jokers.
+R2_CUT1_2 4D6EE7AD  ~z~-Screw you.~n~-Screw you!
+R2_CUT1_3 3EC1CA53  ~z~Baby... when I look into your eyes, it means something.
+R2_CUT1_4 70EBAEA6  ~z~I see little Romans, I see little Mallories,
+R2_CUT1_5 9255F17A  ~z~I see stars, I see angels.
+R2_CUT1_6 17FAFCC2  ~z~ In my homeland we have a saying...
+R2_CUT1_7 FD40C74E  ~z~Yeah, we got one too. You're a fag!
+R2_CUT1_8 2F7D2BCA  ~z~Shit...
+R2_CUT1_9 20988E01  ~z~Jesus, Roman, you fuckin' idiota. How can I take you seriously?
+R2_CUT1_10 4492808E  ~z~Very difficult, I think... hello, Roman! Hello, Miss...
+R2_CUT1_11 BAFF6D6A  ~z~Mallorie, this is my cousin I tell you about, Niko...
+R2_CUT1_12 A8CEC909  ~z~-Hi.~n~-Niko, this is Mallorie, the beautiful girl I tell you about...
+R2_CUT1_13 0B0D0D88  ~z~See? Not everything I tell you was bullshit.
+R2_CUT1_14 7901696F  ~z~I bet most of it was.
+R2_CUT1_15 5F90368D  ~z~Hey!
+R2_CUT1_16 4D549216  ~z~I hope you're less full of shit than your cousin over here.
+R2_CUT1_17 D4399FDE  ~z~-Thank you.~n~-This is the woman that I'm going to marry!
+R2_CUT1_18 41D5FB19  ~z~Huh! Whatever you say.
+R2_CUT1_19 24A4C0B7  ~z~-I thought you were going to marry me, baby?~n~-Hey, Vlad.
+R2_CUT1_20 85D70D0A  ~z~Hey... Vlad... great!
+R2_CUT1_21 1F7AC04F  ~z~You're fuckin' crazy, man.
+R2_CUT1_22 314463E2  ~z~You should lose few pounds - otherwise this beautiful lady is going to leave you.
+R2_CUT1_23 47058F64  ~z~I know... I'm a fat prick, what can I do?
+R2_CUT1_24 54582A09  ~z~Pay your debts?
+R2_CUT1_25 EA1F5599  ~z~I... I will do man. We spoke of this.
+R2_CUT1_26 F80CF174  ~z~No, we didn't speak.
+R2_CUT1_27 0DBC1CD2  ~z~You spoke then you say your phone out of batteries. You treat me like a bitch.
+R2_CUT1_28 1B92B87F  ~z~Never! I'd treat you like an idiot, not a bitch, eh?
+R2_CUT1_29 B5856C62  ~z~I guess it's true...
+R2_CUT1_30 CB2A9450  ~z~the beautiful women do like the guys with the funny sense of humor.
+R2_CUT1_31 D96930CD  ~z~Ho ho. I'm laughing.
+R2_CUT1_32 A7AECD59  ~z~I'll get you the money.
+R2_CUT1_33 D9BC313F  ~z~I know. And Roman...
+R2_CUT1_34 A7C7CD57  ~z~tell this fucking yokel here if he doesn't stop staring at me,
+R2_CUT1_35 B6A96B1A  ~z~I'll have his head chopped off and put a film of it on the internet!
+R2_CUT1_36 8352046C  ~z~Ouch...
+R2_CUT1_37 021F8205  ~z~Ah... all good... great...
+R2_CUT1_38 F06D5EA1  ~z~Hah! Yeah, fantastic!
+R2_CUT1_39 FFD2FD6C  ~z~Look, say what you like,but at least that guy knows how to speak to a lady.
+R2_CUT1_40 6E805C25  ~z~Yes, he's all charm. Come on Niko, let's go.
+R2_CUT1_41 CB4015A7  ~z~Darling... I'll see you later. I've got to take my cousin around some more, get him settled...

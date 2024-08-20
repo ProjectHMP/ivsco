@@ -1,0 +1,49 @@
+R5_CSCENE_1 BBB9094D  ~z~Come on, hottie, forget about the fat serf.
+R5_CSCENE_2 E44FDA7E  ~z~Vlad! Shut up!
+R5_CSCENE_3 D63B3E55  ~z~But he's a serf, and you're a countess. Talking about serfs...
+R5_CSCENE_4 006792A9  ~z~Oh, hey Niko.
+R5_CSCENE_5 F2E7F7AE  ~z~Where's Roman?
+R5_CSCENE_6 1EFB4FD0  ~z~Huh. Good question.
+R5_CSCENE_7 0D14AC03  ~z~Hey, yokel. Your dumb cousin isn't here. Go get me a coffee.
+R5_CSCENE_8 3763009F  ~z~What?
+R5_CSCENE_9 29AF6538  ~z~Get me a fucking coffee!
+R5_CSCENE_10 B1451357  ~z~Come on... I'll get you one.
+R5_CSCENE_11 EB9607FC  ~z~What? You keep staring at me, I'll burst one of your eyeballs.
+R5_CSCENE_12 DCCEEA6A  ~z~Gorgeous, this guy's a fucking creep!
+R5_CSCENE_13 16EADEA5  ~z~Give him a break. He's new in the country.
+R5_CSCENE_14 F83AA145  ~z~I can see that. Did you walk here from nineteen eighty five?
+R5_CSCENE_15 327D95CA  ~z~Yeah.
+R5_CSCENE_16 23B6783C  ~z~Excellent! Now stop fucking staring at me.
+R5_CSCENE_17 5DE46C97  ~z~I mean, I know I'm good looking and everything, but come on.
+R5_CSCENE_18 4F3ACF44  ~z~Aah, hey, Mallorie. Hey man!
+R5_CSCENE_19 79472350  ~z~Hey.
+R5_CSCENE_20 E58CE96E  ~z~Huh. About time.
+R5_CSCENE_21 0760ACFD  ~z~Vlad... Vladdy boy... what's going on?
+R5_CSCENE_22 14A6C789  ~z~Roman! Roman boy... you tell me what's going on.
+R5_CSCENE_23 23D365E2  ~z~Nice aftershave! What is that? "Sex Pest"?
+R5_CSCENE_24 31960167  ~z~No, it's "Where Is My Fucking Money"?
+R5_CSCENE_25 CFFB3E2B  ~z~I had it, I had some of it...
+R5_CSCENE_26 DE34DA9E  ~z~then those Albanians you said you would deal with came and smashed my computer.
+R5_CSCENE_27 EC7BF72C  ~z~So it's my fault?
+R5_CSCENE_28 FA8E9359  ~z~I didn't say that...
+R5_CSCENE_29 74750720  ~z~Good.
+R5_CSCENE_30 DAE3D338  ~z~Anyway, Niko dealt with them... broke Dardan's arm, then beat up a couple more.
+R5_CSCENE_31 F091FE94  ~z~Then we teach them a real lesson.
+R5_CSCENE_32 BEDF1B2F  ~z~Is that so? I'll tell you what...
+R5_CSCENE_33 12E742AE  ~z~while you don't pay, maybe you and Niko can do me few favors.
+R5_CSCENE_34 467CA9D8  ~z~Sure.
+R5_CSCENE_35 37530B85  ~z~Good.
+R5_CSCENE_36 6923EF26  ~z~Why not?
+R5_CSCENE_37 DA0FD0F8  ~z~Later, Vlad.
+R5_CSCENE_38 0BA7B42F  ~z~What?
+R5_CSCENE_39 FE8999F3  ~z~The phone's ringing.
+R5_CSCENE_40 C5A2275D  ~z~Hey? Yeah... okay... no, I can't do it; my cousin will do it.
+R5_CSCENE_41 49562ECB  ~z~Yes he can drive. No, he's not a cop.
+R5_CSCENE_42 1B96D34D  ~z~His name is Niko. He'll be right over.
+R5_CSCENE_43 2AB17182  ~z~Niko, sorry to ask, cousin... can you go pick up Jermaine, one of my regulars?
+R5_CSCENE_44 FF2B1A76  ~z~He's over on Rotterdam Hill on Mohawk Avenue.
+R5_CSCENE_45 9DD757D0  ~z~Whatever.
+R5_CSCENE_46 AF957B4C  ~z~What was this all about?
+R5_CSCENE_47 80749D0B  ~z~Niko came in looking for you and Vlad told him to get him a fucking coffee and Niko didn't want to.
+R5_CSCENE_48 52334089  ~z~Coffee? What was he thinking?
+R5_CSCENE_49 D6DF49DF  ~z~I know.

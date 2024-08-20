@@ -1,0 +1,22 @@
+F6_MEETSF_1 01991F72  ~z~Niko.
+F6_MEETSF_2 B6AB098F  ~z~Niko Bellic.
+F6_MEETSF_3 E4F1661B  ~z~You and Dimitri are taking over, no?
+F6_MEETSF_4 F6430862  ~z~This is not about taking over.
+F6_MEETSF_5 247D64D6  ~z~You brought this on yourself.
+F6_MEETSF_6 122CC035  ~z~You pushed things too far.
+F6_MEETSF_7 C1B91F47  ~z~You would be dead if it wasn't for me.
+F6_MEETSF_8 3EB0993C  ~z~That is what Dimitri wanted when you killed Vlad.
+F6_MEETSF_9 6C6EF4B8  ~z~Dimitri,
+F6_MEETSF_10 CFC2C40A  ~z~my brother.
+F6_MEETSF_11 ED77FF74  ~z~You see this?
+F6_MEETSF_12 B74C931E  ~z~This tattoo says we are brothers for life,
+F6_MEETSF_13 14784DEC  ~z~and now he betrays me...
+F6_MEETSF_14 22CBEA93  ~z~You didn't give him a choice.
+F6_MEETSF_15 F10D8717  ~z~You should have been calm.
+F6_MEETSF_16 FF48238C  ~z~No one, not Dimitri, not anyone tells me to calm.
+F6_MEETSF_17 4F4F4399  ~z~You think Dimitri would have survived prison without me?
+F6_MEETSF_18 69957825  ~z~He'd just be some prison queen, had I not been there.
+F6_MEETSF_19 37D314A1  ~z~Meat for some gym monkey!
+F6_MEETSF_20 E1747421  ~z~I am not dead yet.
+F6_MEETSF_21 F44D99D7  ~z~Some are still loyal to me.
+F6_MEETSF_22 06073D4A  ~z~Guards!

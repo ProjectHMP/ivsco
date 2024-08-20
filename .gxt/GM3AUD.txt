@@ -1,0 +1,23 @@
+GM3_CUT1_1 D6ECE1B1  ~z~You ok, kid?
+GM3_CUT1_2 5529DE29  ~z~Yeah, I'm ok.
+GM3_CUT1_3 8363BA9C  ~z~I'm sorry about your brother.
+GM3_CUT1_4 71969702  ~z~Ah... me and Francis were never exactly close, but he was my brother...
+GM3_CUT1_5 A00973E7  ~z~and it hurts. Poor bastard.
+GM3_CUT1_6 19CFE772  ~z~He believed in something once. That's a hell of a lot better than me, I guess.
+GM3_CUT1_7 07DE438F  ~z~Fuck, I'll miss him.
+GM3_CUT1_8 36512078  ~z~How are you, in here?
+GM3_CUT1_9 648A7CEA  ~z~Fine. Time of my life... Goddamn time of my life.
+GM3_CUT1_10 4D2E425A  ~z~-What you up for?~n~-Oh, a lot of things.
+GM3_CUT1_11 5CCBE195  ~z~Racketeering, armed robbery,
+GM3_CUT1_12 EE988530  ~z~bunch of shit I never did cause I was always a well behaved family man
+GM3_CUT1_13 310009E6  ~z~who occasionally liked a drink, but nothing more.
+GM3_CUT1_14 42B2AD4B  ~z~Of course. Like us all.
+GM3_CUT1_15 557CD2DF  ~z~Like us all.
+GM3_CUT1_16 67267632  ~z~But the thing is, I think I should make some changes in my life, stop with the drink,
+GM3_CUT1_17 E9387A6C  ~z~put it down, stop hanging out with the wrong sort.
+GM3_CUT1_18 788A18F9  ~z~Can you help me do that? It is a final chance at redemption.
+GM3_CUT1_19 8A40BC66  ~z~Look, whatever you want, I will do my best to help.
+GM3_CUT1_20 795C2259  ~z~Good.
+GM3_CUT1_21 8FC64F2D  ~z~Give Packie a call. He'll explain what I need guidance with the most...
+GM3_CUT1_22 9E72EC86  ~z~the areas where I have strayed furthest from the path.
+GM3_CUT1_23 1C6C687F  ~z~See ya.

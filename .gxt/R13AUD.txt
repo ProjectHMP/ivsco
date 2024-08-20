@@ -1,0 +1,45 @@
+R13_CUT1_1 F370311E  ~z~Niko! Be calm... be calm...
+R13_CUT1_2 1F618900  ~z~Fuck calm. Florian!
+R13_CUT1_3 510B6C53  ~z~~c~Florian! I'm here for you, asshole. Open the door!~s~
+R13_CUT1_4 7B57C0EF  ~z~Florian!
+R13_CUT1_5 2E95A768  ~z~I've come for you, Florian.
+R13_CUT1_6 95EFF61B  ~z~Ah! Go away!
+R13_CUT1_7 88D6DBE9  ~z~~c~Florian? Is that you?~s~
+R13_CUT1_8 6F91295E  ~z~Niko? What the hell are you doing here?
+R13_CUT1_9 644B12D2  ~z~What happened to you?
+R13_CUT1_10 197B29D6  ~z~Oh, I started working out... you know, toned up the, er...
+R13_CUT1_11 06A6042C  ~z~Florian? You used to work in the abattoir?
+R13_CUT1_12 74FD60D9  ~z~Oh don't remind me...
+R13_CUT1_13 01E27AA1  ~z~Roman? You put on a few vanity pounds.
+R13_CUT1_14 F018570D  ~z~What are you guys doing here? Why did you kick my door down?
+R13_CUT1_15 CB520D81  ~z~I've come to ask you some questions.
+R13_CUT1_16 39126904  ~z~It wasn't you, was it.
+R13_CUT1_17 B8F8E8CF  ~z~What wasn't me?
+R13_CUT1_18 A6BAC453  ~z~Who set us up. It was you or Darko. I thought it must be him.
+R13_CUT1_19 94A92030  ~z~Oh, my God!
+R13_CUT1_20 DE71B074  ~z~You think it was me... that's why you're here. You've come to kill me!
+R13_CUT1_21 7B03E996  ~z~Well screw you, Niko Bellic and fatty Roman!
+R13_CUT1_22 50BB9506  ~z~It wasn't me. It wasn't!
+R13_CUT1_23 97F3A379  ~z~I wouldn't do that!
+R13_CUT1_24 6E384FFF  ~z~Can we stop with the fat jokes, Florian?
+R13_CUT1_25 0A2F87EF  ~z~It's Bernie now. After I came here, I wanted a complete change. So I became Bernie Crane.
+R13_CUT1_26 193AA605  ~z~I'm sorry about the fat thing... you're still kind of cute.
+R13_CUT1_27 5F8FB2AE  ~z~Ha ha. Gee, thanks.
+R13_CUT1_28 34E45D58  ~z~What are you doing here?
+R13_CUT1_29 111815C8  ~z~Well, I'm a lifestyle coach, and I teach an aerobics class...
+R13_CUT1_30 7A8469B7  ~z~And I'm in love!
+R13_CUT1_31 A873C599  ~z~He's married... it's so doomed.
+R13_CUT1_32 561EA0EC  ~z~And he's in politics... he's the deputy mayor.
+R13_CUT1_33 3F28F301  ~z~Bryce Dawkins? But he's so into family values!
+R13_CUT1_34 33F6DC9D  ~z~Oh, that's just politics.
+R13_CUT1_35 6ACACA44  ~z~Where is Darko?
+R13_CUT1_36 117B17A6  ~z~Dead, I hope!
+R13_CUT1_37 7A1BE8F6  ~z~I'm not sure.
+R13_CUT1_38 1FDA3474  ~z~I... I... I heard he was still in Europe, or Switzerland, or somewhere...
+R13_CUT1_39 56B7222D  ~z~but then I heard that you had joined the circus so information can be unreliable.
+R13_CUT1_40 009CF276  ~z~We have to find him.
+R13_CUT1_41 9903A345  ~z~We have to find him.
+R13_CUT1_42 96FD9F39  ~z~I think he's a bit freaked out. I guess he thought seeing you would answer some questions.
+R13_CUT1_43 B9B0E49F  ~z~So I see... well it's great to see you guys... we must do brunch.
+R13_CUT1_44 AAF7472C  ~z~Sure... see you later, Florian.
+R13_CUT1_45 8E4B0DDC  ~z~Bernie!

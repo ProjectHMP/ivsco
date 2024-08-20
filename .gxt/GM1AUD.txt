@@ -1,0 +1,29 @@
+GM1_CUT1_1 C725D71A  ~z~No one's here. Just you and me.
+GM1_CUT1_2 B8A0BA10  ~z~Come in, come in. Beer?
+GM1_CUT1_3 397E3BC9  ~z~No, thank you.
+GM1_CUT1_4 2B3C9F46  ~z~Oh, I agree...
+GM1_CUT1_5 8BE860A0  ~z~let's have whiskey instead.
+GM1_CUT1_6 7DADC42B  ~z~Packie swears by you, absolutely swears by you.
+GM1_CUT1_7 5511F2E4  ~z~Yeah?
+GM1_CUT1_8 4455516B  ~z~You handled yourself well on that bank job.
+GM1_CUT1_9 393F3B3F  ~z~-It was fun.~n~-Fun?
+GM1_CUT1_10 815D0DB3  ~z~Too much fun - that's always been this family's problem.
+GM1_CUT1_11 AF2EE956  ~z~Fun, good causes, a good laugh, some stupid dream or some stupid distraction.
+GM1_CUT1_12 9C8DC414  ~z~But never any fuckin' focus. Never!
+GM1_CUT1_13 4C3BA371  ~z~Mmm, focus...
+GM1_CUT1_14 D7BEBA79  ~z~All we've ever been is bitches. Working for guineas, working for niggers, any asshole with a buck.
+GM1_CUT1_15 C5F496E5  ~z~The whole lot spent in the proper manner, oh yeah,
+GM1_CUT1_16 E102CD01  ~z~wine and women, as quick as possible, and remain a slave forever.
+GM1_CUT1_17 8F45A984  ~z~Very poetical.
+GM1_CUT1_18 0EAA284F  ~z~Yeah, I know, national tragedy.
+GM1_CUT1_19 FCEC04D3  ~z~But I got a plan. You down, friend?
+GM1_CUT1_20 E4EAD5AD  ~z~Maybe. What is it?
+GM1_CUT1_21 92D2B17A  ~z~Well first up, we gotta create a little problem between the Ancelottis and their Albanian muscle, for Jimmy P.
+GM1_CUT1_22 81578E84  ~z~You're gonna plant a bomb in Tony Black's car. It'll be rigged to a phone.
+GM1_CUT1_23 AF496A67  ~z~Thing will go off with when you dial a number.
+GM1_CUT1_24 2DE4679F  ~z~I want it to blow when they get back from their meeting.
+GM1_CUT1_25 1BACC330  ~z~So the Ancelottis think the Albanians did it?
+GM1_CUT1_26 CA5EA095  ~z~Exactly. Bomb's in an alley off of Inchon Avenue.
+GM1_CUT1_27 F870FCB9  ~z~Get it, give me a call.
+GM1_CUT1_28 729BF111  ~z~You know Packie was right for once.
+GM1_CUT1_29 6049CC6D  ~z~I'm glad you're on board.

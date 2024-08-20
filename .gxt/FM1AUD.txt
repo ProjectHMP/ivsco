@@ -1,0 +1,31 @@
+FM1_CUT1_1 5B7C27C4  ~z~Were you followed?
+FM1_CUT1_2 67C5C057  ~z~Hey... strange seeing you here, officer McReary.
+FM1_CUT1_3 3EB16E2B  ~z~I told you to come here, fucking maggot.
+FM1_CUT1_4 4CF00AAC  ~z~You did? Why?
+FM1_CUT1_5 36A95E1F  ~z~I know about you.
+FM1_CUT1_6 44F7FABC  ~z~Know what?
+FM1_CUT1_7 07FE80CA  ~z~I know enough, boy.
+FM1_CUT1_8 266CBDA6  ~z~What do you know, boy?
+FM1_CUT1_9 ED89CBE1  ~z~I know you killed Mikhail Faustin. I know a group of Russians want you dead. I know you ain't no saint, boy.
+FM1_CUT1_10 F674EB78  ~z~I don't know what you're talking about, chief.
+FM1_CUT1_11 5E173ABB  ~z~Do you think this is a town that can keep a secret?
+FM1_CUT1_12 613B4103  ~z~I really don't know what you're talking about.
+FM1_CUT1_13 3A8F73AC  ~z~Yeah ya do. You know that a man's gotta do~n~what a man's gotta do.
+FM1_CUT1_14 4FC69E1A  ~z~That people ain't perfect... that life is a mess...
+FM1_CUT1_15 8A711372  ~z~Sure. Everybody knows that.
+FM1_CUT1_16 9FC43E18  ~z~So you look out for me...
+FM1_CUT1_17 55812993  ~z~and I don't look out for you. Know what I mean?
+FM1_CUT1_18 7C3176F3  ~z~I think so.
+FM1_CUT1_19 C15A8144  ~z~So there's a guy trying to blackmail me.
+FM1_CUT1_20 FDDE7BA7  ~z~Who?
+FM1_CUT1_21 C4238832  ~z~I don't know. Thinks he's getting paid though.
+FM1_CUT1_22 D66A2CBF  ~z~The guy's smart. He arranged to do the exchange by the Humboldt River off Silicon Street.
+FM1_CUT1_23 14412870  ~z~Said to call him from the viewpoint there.
+FM1_CUT1_24 2683CCF5  ~z~Okay.
+FM1_CUT1_25 F0B6615B  ~z~Listen... I did what I did... I made a mistake. That don't make me the devil.
+FM1_CUT1_26 030005EE  ~z~Now obviously I can't go, cause then he gets a picture of me giving him money, and I'm admitting guilt.
+FM1_CUT1_27 5D10BA0E  ~z~I ain't guilty of nothing, other than being a man.
+FM1_CUT1_28 6FD75F9B  ~z~To be honest, I don't really care one way or another.
+FM1_CUT1_29 398BF305  ~z~Well... I'm a good man.
+FM1_CUT1_30 D9C7AFDA  ~z~No doubt.
+FM1_CUT1_31 1DA937A0  ~z~Call me when you get to the spot.

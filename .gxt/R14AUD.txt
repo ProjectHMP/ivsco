@@ -1,0 +1,32 @@
+R14_CUT1_1 930BDB8E  ~z~You remember me?
+R14_CUT1_2 45B3C0F3  ~z~~c~Leave me alone. I don't know you.~s~
+R14_CUT1_3 FBF72D77  ~z~I don't know you.
+R14_CUT1_4 42513A2E  ~z~Yes you do.
+R14_CUT1_5 589866BC  ~z~I'm the one... who survived.
+R14_CUT1_6 109CD6C2  ~z~Niko... hello.
+R14_CUT1_7 BE56B237  ~z~~c~Just tell me why.~s~
+R14_CUT1_8 EC190DBB  ~z~~c~Why?~s~
+R14_CUT1_9 19CAE91E  ~z~~c~We were friends. We were all friends. We all grew up together...~s~
+R14_CUT1_10 7DB9B642  ~z~~c~Dmitar, Dragan, Goran, Mijo... should I go on and name them all?~s~
+R14_CUT1_11 A41782FD  ~z~We were friends, but I had other friends.
+R14_CUT1_12 E21DFF09  ~z~Friends that Goran and his guys killed.
+R14_CUT1_13 E2CB005F  ~z~My fucking neighbors!
+R14_CUT1_14 21237D0F  ~z~Because of what? Because of shit.
+R14_CUT1_15 49DC4E70  ~z~Lies. Fucking lies.
+R14_CUT1_16 F5B6A636  ~z~So that makes it okay. To stab your friends in the back?
+R14_CUT1_17 3B8AB1CD  ~z~When everything you believe is shown to be shit,
+R14_CUT1_18 2D33151E  ~z~-you make strange choices, I guess.~n~-Fuck you!
+R14_CUT1_19 9EF1F89A  ~z~Strange choices? How much?
+R14_CUT1_20 1E1CF16A  ~z~A thousand.
+R14_CUT1_21 DB0E6B4E  ~z~You killed my friends for one thousand dollars?
+R14_CUT1_22 AD448FBB  ~z~How much do you charge to kill someone?
+R14_CUT1_23 8463BE06  ~z~You ruined me, you fuck!
+R14_CUT1_24 C7174360  ~z~I needed the money... I had problems.
+R14_CUT1_25 A04D75D9  ~z~You're a fucking junkie.
+R14_CUT1_26 7217196D  ~z~Kill me, then!
+R14_CUT1_27 A15C77EB  ~z~You fucking hypocrite.
+R14_CUT1_28 6FA5947E  ~z~Trust me, you'll be doing me a favor.
+R14_CUT1_29 2D530FDA  ~z~Niko - come on, let's go.
+R14_CUT1_30 9270D904  ~z~Let him suffer... he knows what he did.
+R14_CUT1_31 41963750  ~z~He doesn't look like he enjoys life too much.
+R14_CUT1_32 2DEF9003  ~z~Come on.

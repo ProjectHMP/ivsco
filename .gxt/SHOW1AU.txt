@@ -1,0 +1,44 @@
+SHOW1_PT1_1 D45FDBB6  ~z~~x~We have two great acts coming up.
+SHOW1_PT1_2 01FC36E2  ~z~~x~First, the Incredible Kleinman!
+SHOW1_PT1_3 D697DF26  ~z~~x~Welcome.
+SHOW1_PT1_4 A7468084  ~z~~x~ I am constantly asked, "Kleinman, when did you discover you were magic?
+SHOW1_PT1_5 9A25E643  ~z~~x~Have you ever used your powers for good?
+SHOW1_PT1_6 8CDBCBAF  ~z~~x~Like making cancer patients or nuclear warheads disappear?"
+SHOW1_PT1_7 7C562AA4  ~z~~x~One man even asked me, "Can you make my masculinity disappear?"
+SHOW1_PT1_8 6E208E39  ~z~~x~But I am here to entertain you,
+SHOW1_PT1_9 61EC75CD  ~z~~x~not your bi-curious fantasies.
+SHOW1_PT1_10 3969735C  ~z~~x~I will now make my assistant... float!
+SHOW1_PT1_11 2FB25FEE  ~z~~x~I will defeat gravity. I will be the master of Isaac Newton!
+SHOW1_PT1_12 1CF8BA7B  ~z~~x~Now... arise!
+SHOW1_PT1_13 032686D7  ~z~~x~Arise! Arise! Yes, there! There! Higher! Higher! Lower! Higher! Lower!
+SHOW1_PT1_14 82A305CE  ~z~~x~Ah yes, I can make this filthy woman fall under my dominion. Oh, arise! Yes!
+SHOW1_PT1_15 70AA61DD  ~z~~x~You suck, asshole!
+SHOW1_PT1_16 65DC4C41  ~z~~x~Eat shit!
+SHOW1_PT1_17 540EA8A6  ~z~~x~Aaagh, Laurel? Laurel?
+SHOW1_PT1_18 E297C5B2  ~z~~x~Oh, Laurel, you're... oh, you're a quadraplegic!
+SHOW1_PT1_19 D0732169  ~z~~x~Don't worry, everybody. She's probably only paraplegic!
+SHOW1_PT1_20 C86A1077  ~z~~x~Now let's hear it for Ms Bluesy St. John!
+SHOW1_PT2_1 0C7F3981  ~z~~x~Welcome. Welcome to momma's little show. Yeah.
+SHOW1_PT2_2 1E30DCE4  ~z~~x~Yeah, play it, Al. Play it. Al's the fine piano player.
+SHOW1_PT2_3 2B1BF6BA  ~z~~x~Pre-recorded because his union got a little mouthy and greedy so we sing to his CD now.
+SHOW1_PT2_4 3A56952F  ~z~~x~But I still feel like he's here in spirit.
+SHOW1_PT2_5 C4D9AA37  ~z~~x~I have a little song I want to share with you. It's about something that's happened to us all.
+SHOW1_PT2_6 D7074E92  ~z~~x~No, no, I'm not talking about getting sandwiched by two Lebanese train porters in the caboose.
+SHOW1_PT2_7 E164634C  ~z~~x~No. I'm talking about losing your baby.
+SHOW1_PT2_8 F39B07B9  ~z~~x~You know, they get picked up by a stranger on the way to go to school.
+SHOW1_PT2_9 509C4226  ~z~~x~And then you grab a bottle of gin down from the dusty cupboard where you put it
+SHOW1_PT2_10 622E11B8  ~z~~x~and you wake up in the sterile belly of a spaceship,
+SHOW1_PT2_11 E1B390C1  ~z~~x~and a man comes over and looks like your father,
+SHOW1_PT2_12 13667426  ~z~~x~and you realize that day your dad disappeared he didn't leave your mom for the fat bitch at the gas station.
+SHOW1_PT2_13 3135AFC4  ~z~~x~He was abducted. And your captors put you down in a farm field late at night somewhere in Iowa.
+SHOW1_PT2_14 1AEA832E  ~z~~x~And they painted patterns in the corn.
+SHOW1_PT2_15 BA82425F  ~z~~x~And the crickets are singing and the cows baying in the distance
+SHOW1_PT2_16 ED152788  ~z~~x~and your backside hurts something fierce from the probing - woo!
+SHOW1_PT2_17 E5EC1936  ~z~~x~and the holy ghost is there too. Man, the lord has a ghost.
+SHOW1_PT2_18 189FFE9D  ~z~~x~And there's a girl on a swingset and you go push her off the swing.
+SHOW1_PT2_19 92ECF335  ~z~~x~And you know what - we're all that little girl sometimes.
+SHOW1_PT2_20 7A764590  ~z~~x~Sometimes life pushes you off a swing.
+SHOW1_PT2_21 FB46C73B  ~z~~x~Or makes you a little girl, even when you're a little boy.
+SHOW1_PT2_22 E98023AE  ~z~~x~Well, that's all I got time for tonight. I love you all.
+SHOW1_PT2_23 DEDB0E64  ~z~~x~Thank you so much. Good night.
+SHOW1_PT2_24 CCBF6A21  ~z~~x~Ms Bluesy St. John!

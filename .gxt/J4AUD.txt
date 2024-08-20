@@ -1,0 +1,45 @@
+J4_CUT1_1 C019A10D  ~z~-The problem with this guy is, I can't even think straight, he's always talkin'. ~n~-Slow down Phil you take everything too personal.
+J4_CUT1_2 DE8FDDF9  ~z~There he is. Welcome to the war council, my boy.
+J4_CUT1_3 EEAD7E34  ~z~Gentlemen. What's going on?
+J4_CUT1_4 FA32953E  ~z~Nothing... discussing pest control.
+J4_CUT1_5 16C9CE6C  ~z~Well, I've given you my advice, Peg, you do what you think is best.
+J4_CUT1_6 24F56AC3  ~z~I agree.
+J4_CUT1_7 33138707  ~z~Finally!
+J4_CUT1_8 418623EC  ~z~I mean I don't agree with what he says - I agree that you know best...
+J4_CUT1_9 5E6D5DBA  ~z~Excuse me...
+J4_CUT1_10 7EA06959  ~z~Relax... I didn't mean nothing by it.
+J4_CUT1_11 503C8C92  ~z~Look either we make the right call or we all end up in prison anyway,
+J4_CUT1_12 6309B22C  ~z~where your crap ain't gonna do me no favors.
+J4_CUT1_13 34D0D5BB  ~z~Be careful - I'll see you later. Boss, gentlemen.
+J4_CUT1_14 47E6FBE7  ~z~You're only an associate Phil remember that.
+J4_CUT1_15 19451EA4  ~z~Yeah, yeah. Okay tough guy.
+J4_CUT1_16 33215254  ~z~Boss - I gotta tell you this... he's not straight.
+J4_CUT1_17 4564F6DB  ~z~Right before he came in here I saw him talking to Angie again.
+J4_CUT1_18 177E9B0F  ~z~You better leave.
+J4_CUT1_19 299D3F4C  ~z~Eh, I need to speak to Niko.
+J4_CUT1_20 98E09CFD  ~z~Sure, boss.
+J4_CUT1_21 BC2FE39B  ~z~But uh... think about what I said.
+J4_CUT1_22 ADE44704  ~z~I will.
+J4_CUT1_23 5FABAA90  ~z~Ya know?
+J4_CUT1_24 862D7793  ~z~Trust me on that.
+J4_CUT1_25 766B580F  ~z~We got real problems.
+J4_CUT1_26 28BF3CB8  ~z~Police are all over us.
+J4_CUT1_27 0B4601C6  ~z~Maybe you heard. I got served papers today.
+J4_CUT1_28 3D35E5A5  ~z~Phil yesterday.
+J4_CUT1_29 2D7F4638  ~z~We got a couple of boys in jail... I think they might squeal!
+J4_CUT1_30 4713F895  ~z~Somebody's talking - wants us out of the picture...
+J4_CUT1_31 145A9323  ~z~maybe Jon Gravelli... or them Ancelottis.
+J4_CUT1_32 24D0340E  ~z~Somebody got to my people!
+J4_CUT1_33 6FB4C9D6  ~z~So, what are you going to do about it?
+J4_CUT1_34 815F6D2B  ~z~I don't know... I gotta shut someone up, and show people I mean business.
+J4_CUT1_35 4C2002AD  ~z~I've known Phil a long time - he's straight, more or less...
+J4_CUT1_36 B80FDA8F  ~z~I know him and Angie are friends, but that don't worry me too much.
+J4_CUT1_37 CAAA7FC4  ~z~Maybe he's too straight.
+J4_CUT1_38 94801370  ~z~Then there's Ray...
+J4_CUT1_39 A347B0FF  ~z~I don't know, I don't trust him...
+J4_CUT1_40 0260F6A4  ~z~but he's a good earner.
+J4_CUT1_41 10BD9361  ~z~I know he's got his eye on the big prize... but he's no dummy.
+J4_CUT1_42 1E01ADE9  ~z~Him and Phil hate each other...
+J4_CUT1_43 2C4B4A7C  ~z~I gotta think about it.
+J4_CUT1_44 39266432  ~z~Okay.
+J4_CUT1_45 47B90157  ~z~I'll give you a call... whoever I say to go see, go see 'em. And shut 'em up!

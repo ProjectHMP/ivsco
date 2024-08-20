@@ -1,0 +1,44 @@
+SHOW8_PT1_1 A78F9B77  ~z~~x~~c~Are you ready for this?~s~ Here comes Ms Bluesy St. John!
+SHOW8_PT1_2 D87A7D4C  ~z~~x~Hi, welcome... yeah.
+SHOW8_PT1_3 C33C52D0  ~z~~x~You ready for some modern blues? How about a little jazz? I love jazz.
+SHOW8_PT1_4 3EC149D8  ~z~~x~It's like four guys all playing a different song and you're right in the middle feeling slightly confused,
+SHOW8_PT1_5 70942D7D  ~z~~x~awkward, and violated. You ready?
+SHOW8_PT1_6 61608F16  ~z~~x~How you all doing tonight? Yeah, yeah. Me, I'm doing great. Just great.
+SHOW8_PT1_7 8C16E482  ~z~~x~That's because, like most Americans, ladies and gentlemen, I medicate.
+SHOW8_PT1_8 EE70A940  ~z~~x~Oh, yes I medicate, yeah...
+SHOW8_PT1_9 E0AF0DBD  ~z~~x~Well, I used to do the hard shit, but now it's a prescription, baby. A prescription.
+SHOW8_PT1_10 3B148CBF  ~z~~x~It takes my worries away... it's utopia.
+SHOW8_PT1_11 A554613D  ~z~~x~I feel lethargic and I don't care.
+SHOW8_PT1_12 A2AF5BF3  ~z~~x~Because I don't feel no pain, thanks to my pills. I feel fine, fine, fine.
+SHOW8_PT1_13 90D7B844  ~z~~x~I just can't operate heavy machinery. No way.
+SHOW8_PT1_14 0E28B2EC  ~z~~x~I can't get me a job on the railroads. That's why I got the blues.
+SHOW8_PT1_15 002216DF  ~z~~x~Well, I went down to Mississippi. Yeah. Mississippi... you been there?
+SHOW8_PT1_16 5993C9BD  ~z~~x~Number one in the blues but fiftieth in education.
+SHOW8_PT1_17 4B622D5A  ~z~~x~But my pill is orange, and the pharmacy ran out, and my anxiety came back.
+SHOW8_PT1_18 C4B32002  ~z~~x~You know when your heart gets turned inside out and you feel like you're going to die?
+SHOW8_PT1_19 C2671B6A  ~z~~x~Imagine that on a chemical level.
+SHOW8_PT1_20 772E8642  ~z~~x~Well, I'm a soccer mom with bad nerves, and my kid is going to fail, and my garden ain't pretty enough,
+SHOW8_PT1_21 8A0CABFE  ~z~~x~so I went to the shop and got me a gun and shot this other soccer mom in the head for laughing at my SUV,
+SHOW8_PT1_22 6593630C  ~z~~x~saying it was an old model. Man, it felt so bad...
+SHOW8_PT1_23 F43F0069  ~z~~x~Well, that's the blues. That's the blues, yeah. Suburban homicide. You feeling me, ladies and gentlemen?
+SHOW8_PT1_24 3E6B14BC  ~z~~x~Well, then my husband told me he never loved me,
+SHOW8_PT1_25 50253830  ~z~~x~but I upped the dose and now I feel great. Yeah, that's right...
+SHOW8_PT1_26 28D36991  ~z~~x~I medicate. I medicate. Thank you, you all. You all have been great.
+SHOW8_PT1_27 BB0C0E04  ~z~~x~Liberty City, best audience in the world, I love you. Thank you.
+SHOW8_PT1_28 05C1A36E  ~z~~x~Ms Bluesy St. John! No touching self in the audience, please.
+SHOW8_PT1_29 180047EB  ~z~~x~Now, welcome to Perestroika stage, Incredible Kleinman!
+SHOW8_PT2_1 FC21E4EB  ~z~~x~Guns, ladies and gentlemen, are the backbone of our democracy.
+SHOW8_PT2_2 B2BED222  ~z~~x~They are what make us American. They are our best friends and our worst enemies... shit!
+SHOW8_PT2_3 E9A73FF6  ~z~~x~But tonight, I will be their master.
+SHOW8_PT2_4 29693F7D  ~z~~x~My whorish assistant, the lovely Laurel, will take her revenge on me.
+SHOW8_PT2_5 17929BD0  ~z~~x~She will take this pistol and fire it at me and I will catch the bullet with my teeth!
+SHOW8_PT2_6 04CF764A  ~z~~x~Impossible? Yes - but it can be done. Laurel, ready the pistol.
+SHOW8_PT2_7 F4A5D5F7  ~z~~x~Show the audience it is loaded.
+SHOW8_PT2_8 60A6ADF3  ~z~~x~Shit!
+SHOW8_PT2_9 4DE4086E  ~z~~x~Kids, do not try this at home.
+SHOW8_PT2_10 4C94519E  ~z~~x~Laurel!
+SHOW8_PT2_11 5CCDF211  ~z~~x~Back up a few feet... take aim...
+SHOW8_PT2_12 281888A7  ~z~~x~and...
+SHOW8_PT2_13 3E7CB56F  ~z~~x~Fire!
+SHOW8_PT2_14 15CAE40C  ~z~~x~Holy shit! Keep calm! Don't leave! Don't call the police!
+SHOW8_PT2_15 A411809B  ~z~~x~We have doctor in Broker.
